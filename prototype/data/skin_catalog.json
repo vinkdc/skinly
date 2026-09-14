@@ -1,0 +1,7027 @@
+[
+  {
+    "id": "89be9866-4807-6235-2a95-499cd23828df",
+    "name": "Altitude Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "94c085e6-48e1-c879-2552-88bf7850c5a8",
+    "name": "Xenohunter Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "a67c2daa-4f4d-1af0-0ff4-6fafde471776",
+    "name": "Neptune Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "d6586a38-4bf4-1c35-22c9-029aee5942bb",
+    "name": "Heartbreaker Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "e02d6b2c-4e2e-a5f1-6bb8-38ac74485d7e",
+    "name": "Tactiplay Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "abef8114-4495-6da7-2ade-02bd0f014fd3",
+    "name": "Rune Stone Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "ba2592f7-45c8-8d25-1442-83971f3d95dd",
+    "name": "Comet Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "729f0ef1-4c70-dc39-3fe0-9d887a320070",
+    "name": "Doom Wing Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "fcba924d-41f6-7a92-f904-13b0fcbc2bdd",
+    "name": "Doombringer Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "97af88e4-4176-9fa3-4a26-57919443dab7",
+    "name": "Glitchpop Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "2715f184-46cc-bec1-dd7c-e7b4d1aeb625",
+    "name": "Nitro Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "85c76090-4de5-3a3a-a763-f4a7b779e8ed",
+    "name": "Topotek Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "79ffb1d7-405d-1b96-6071-e7a804555cd7",
+    "name": "Dolmir's Revenge Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "9773ba41-4512-3706-321f-c3b826754db9",
+    "name": "Nanobreak Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "cda41b87-4d3a-c17c-5f6d-8990cc9c5efb",
+    "name": ".EXE Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "bd647d56-4542-19cd-e1ed-4fb429c78cf9",
+    "name": "Neo Frontier Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "157bcebe-484d-82e2-2a60-c8b4b11197ea",
+    "name": "Prime//2.0 Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "72e724e9-4ba4-2d12-ce1a-8db1a528b9d3",
+    "name": "Prism III Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "9e648b20-4ed5-1f34-87a9-979cbe9a958a",
+    "name": "Smite Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "5c13101a-45e4-d568-aade-d6b0dadedcd1",
+    "name": "Coalition: Cobra Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "ca1a3ade-4809-35ea-cd96-b687149f4945",
+    "name": "Insidious Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "65baa0cd-42ec-f99d-54a0-338d795b5824",
+    "name": "Sensation Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "9c134f41-4c29-1bd8-682e-178e7f349c9b",
+    "name": "Random Favorite Skin",
+    "weapon": null
+  },
+  {
+    "id": "57523cf0-4574-968b-9f17-168e3bdb6d0d",
+    "name": "Lightwave Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "3bb7e1cd-4774-3b84-ab13-3fa8ca182f20",
+    "name": "Orion Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "02cce94a-4dc2-d11a-33cf-d8aba4e36202",
+    "name": "Schema Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "468fdc95-443f-f1c2-bd22-fc8e1af0de39",
+    "name": "Lycan's Bane Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "67fb338a-4b21-ed70-7c2a-46bef4742b4f",
+    "name": "Sentinels of Light Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "8dda01a6-4237-f430-ac70-c3ba677963e9",
+    "name": "Reaver Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "a7995818-409f-c79b-20b7-28ad642f3135",
+    "name": "Sovereign Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "f454efd1-49cb-372f-7096-d394df615308",
+    "name": "Standard Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "fa1c05fd-49fc-ad93-17d8-f0aaf11874cd",
+    "name": "Evori Dreamwings Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "14796249-4f23-9d52-4ea1-d8878099c01e",
+    "name": "Freehand Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "befa2f32-410f-a418-d8d3-b194dcf2ec6d",
+    "name": "Aerosol Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "14f9d94a-4add-10a9-588d-48a7111da96f",
+    "name": "Fortune's Hand Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "85ed3f9d-4e59-a709-8faf-bc86effb3a07",
+    "name": "BlastX Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "6f231df6-42ed-34aa-e836-78a4a144d4ea",
+    "name": "Solarex Odin",
+    "weapon": "Odin"
+  },
+  {
+    "id": "37cacef1-4ff3-fafb-b0e0-f1b14ce9449d",
+    "name": "Space Piercer Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "e9fce399-4abc-bb3c-8992-f887918ce327",
+    "name": "VALORANT GO! Vol. 2 Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "8b9855f2-4cc6-0c44-3e7c-d0b2a32c6950",
+    "name": "Aristocrat Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "1e5ee5bf-43d5-28ee-b2f7-96a53b783dc2",
+    "name": "Gaia's Vengeance Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "bb004222-4ecd-e109-e875-069c820548fa",
+    "name": "Endeavour Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "a609cb96-44aa-f949-c357-e4883fe664d1",
+    "name": "Bumble Brigade Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "ac65b631-4bd1-b0fa-3313-0da74d4eba9d",
+    "name": "Nebula Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "35beb433-425e-7072-7ac3-9ca95d1d1fd9",
+    "name": "Doodle Buds Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "5bbf3175-411f-af59-c8ee-4395a61b3858",
+    "name": "Dragon Gate Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "e901bdeb-405f-d06c-0733-6783274d85b0",
+    "name": "Singularity Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "4e04647a-4cfc-64f8-4643-f6b7dbcb2943",
+    "name": "Rush Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "556646c0-46dd-6986-00df-a78d1c17f268",
+    "name": "Hivemind Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "e434418b-4a79-5353-3cfc-5a85af91ef0b",
+    "name": "Gourmand Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "04b1358c-4702-dd82-a135-368384b685dd",
+    "name": "Spitfire Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "b4803277-468a-f798-7120-718963b94d7a",
+    "name": "Digihex Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "84fbc17e-485f-06ec-f3cb-2eaf700cafd3",
+    "name": "Hieroscape Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "e089be41-4242-b28d-1894-bbba193957a2",
+    "name": "Infantry Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "9d2b497b-434d-07fc-ea0f-ee96de4bffa1",
+    "name": "Goldwing Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "4308fe43-44c1-9fe8-d5f9-95be2bc70d51",
+    "name": "Outpost Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "841c9aab-4005-f7fd-3b67-24b335100fb4",
+    "name": "Prism Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "2edbde3f-4ccc-9251-d92f-21bc9046b999",
+    "name": "Aquatica Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "5d79b1d4-4855-fb37-aa20-b8844d0af7dc",
+    "name": "Yoonseul Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "ff0a538f-4ee6-a3e7-f7a8-a0b5a76e027b",
+    "name": "Monstrocity Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "7aa16eb6-45ef-1446-fdaa-5f8fbbd04bee",
+    "name": "Nunca Olvidados Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "d21e2975-4586-635c-3fe4-e6be738243b3",
+    "name": "Celestial Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "0fac1dcf-48d0-c6c4-675e-2a8013bc879c",
+    "name": "Magepunk Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "cd8eb70d-443c-d9fd-48cd-98bace9d5132",
+    "name": "Minima Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "26bb8b5c-4b3f-e0f6-39f7-bfa6eae59c00",
+    "name": "Valiant Hero Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "de06622c-4bf3-d9af-2191-11bf1c55ca54",
+    "name": "Montage Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "0f4b0478-4759-911d-c44b-2a907534789d",
+    "name": "Ion Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "759bca71-4764-19f8-8890-239eedb78fa3",
+    "name": "Oni Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "4e459b3b-4dab-934f-1d77-bdbe75b6fcca",
+    "name": "9 Lives Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "ff555802-4633-0c8b-93f8-b8887666e3ad",
+    "name": "POLYfrog Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "398ef7c2-4055-980e-a8b4-669ca8bc5084",
+    "name": "Divine Swine Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "e4b7f196-4f05-825f-e795-a59fc829195d",
+    "name": "Jigsaw Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "165116bf-497a-3ffa-38dc-c58d4475e225",
+    "name": "Premiere Collision Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "acccab4a-4093-8a4a-f1d3-299071d763d3",
+    "name": "Random Favorite Skin",
+    "weapon": null
+  },
+  {
+    "id": "2666f98d-4f88-8cb9-4927-629d75a6a7ad",
+    "name": "Sakura Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "d40afbc0-4cb6-d8ec-a5e8-23afdfdc9dc3",
+    "name": "Keys to Elysium Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "175393f4-4e60-7403-4a4d-95818f6cc007",
+    "name": "Hi-DR0 Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "bef693e7-419c-af25-c26c-558b3e3bb473",
+    "name": "Silhouette Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "43538e40-48bf-0262-d4a7-bbba3c56df77",
+    "name": "Snowfall Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "9f3e2ba6-428f-c635-67e0-b8b7d9e3c2fc",
+    "name": "Sentinels of Light Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "d29d764d-41ce-5a4d-0a96-7b8b91da16fd",
+    "name": "Titanmail Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "c976f29d-4a83-3a40-2907-8dadbb7c5940",
+    "name": "Mystbloom Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "5305d9c4-4f46-fbf4-9e9a-dea772c263b5",
+    "name": "Standard Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "921d59b7-4cfc-40ff-761b-b1b9515c341a",
+    "name": "Haloform Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "80bb82f9-4891-7340-c8d8-7daac5567ee2",
+    "name": "Blackspyre Ares",
+    "weapon": "Ares"
+  },
+  {
+    "id": "d980c0c8-492b-b8df-2d91-af99a7707170",
+    "name": "Immortalized Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "e5490f71-455b-74ad-f762-f5a876d4dff9",
+    "name": "RGX 11z Pro Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "c97cd8a3-44ef-8425-5bf6-11bf72128606",
+    "name": "Altitude Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "87fb2de6-4ead-37a5-c168-5ab3cd684517",
+    "name": "Sky Reaper Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "ba6f2526-4ed2-8e62-49aa-ebbb04290682",
+    "name": "VALORANT GO! Vol. 2 Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "5a510a45-4b2a-2b9a-bd78-1ea6d229ba38",
+    "name": "Divergence Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "4c926aa9-4f26-bc80-c486-9b888333373f",
+    "name": "Araxys Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "db91451c-4309-2c8c-eded-bf842d844e52",
+    "name": "Neptune Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "6191bb0b-456f-1a3e-df13-cdb0c1b8b1e4",
+    "name": "Aristocrat Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "000ad7b1-44b0-9345-ea47-9cbd7dcdbb38",
+    "name": "Gaia's Vengeance Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "6dee8259-4620-920a-cef7-14944bbed130",
+    "name": "MK.VII Liberty Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "d3733bfe-48d7-b119-3195-249d3b46b528",
+    "name": "Endeavour Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "d84fc9f3-412c-257e-b135-94b586d4b631",
+    "name": "ATLAS // CMD Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "9bf19b77-4b33-7203-9f2c-16932970622f",
+    "name": "Champions 2021 Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "b0f65660-4c51-13b7-9d01-e29a1e2879b0",
+    "name": "Champions 2023 Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "6c4315b8-4ff1-baaa-5aac-5790c7443353",
+    "name": "Origin Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "e271a430-4282-847b-3a51-5d97839ce221",
+    "name": "Comet Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "b8a6d8f5-4171-c0f3-eab4-9bb64af25f4f",
+    "name": "Phaseguard Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "ffb65a92-4654-a7f8-1908-bf9bb18995a3",
+    "name": "Starlit Odyssey Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "7f26d04c-44fb-1d65-16f0-4f827686d72b",
+    "name": "Verdant Cafe Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "74789f33-4632-8052-96d7-258538721a32",
+    "name": "Glitchpop Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "8e762a1f-4102-b7ce-d6a0-9690c5bfe160",
+    "name": "ChronoVoid Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "522a264e-4ca7-adb0-6cf1-28b2ef938727",
+    "name": "Prelude to Chaos Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "18609205-4edb-5966-cff8-0fba0230ba1e",
+    "name": "Elderflame Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "917ca6e8-403e-3691-78d9-a8aa6118385f",
+    "name": "Imperium Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "d6c7ff28-467e-bb3f-3c0c-c5b9445e55ca",
+    "name": "Singularity Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "2ef9ee97-4735-e7d9-069f-fb80541468b5",
+    "name": "ORA by OneTap Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "5b6b1eee-4185-8f83-9374-3391d0f0f742",
+    "name": "Sarmad Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "9b62faf1-416c-b736-0edb-39b890f1f18d",
+    "name": "Nitro Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "f7f63b78-4b12-b21e-a0e7-6bafbad81509",
+    "name": "Hivemind Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "5a658084-453f-e971-5def-2bb9cf6e5e90",
+    "name": "Venturi Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "437307c6-424c-6a48-9738-949b91166353",
+    "name": "Forsaken Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "25980352-4407-60ff-eb27-058c1ea696cc",
+    "name": "Team Ace Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "08cdb3d5-4742-f8d4-9614-35b9f231b044",
+    "name": "Heartstopper Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "c9c999ae-4bc4-df1c-328d-ad93c0d81368",
+    "name": "Superset Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "3a079e06-4b63-2293-fbd8-4fb896e8af3d",
+    "name": "Dolmir's Revenge Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "948d31a0-4c2a-9c82-2b89-fe9f2ec65036",
+    "name": "Ruin Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "6f3a2a08-4f32-dbdc-8dca-628a5c840052",
+    "name": ".EXE Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "23d61dbb-457a-5590-2e91-38a67a52c332",
+    "name": ".SYS Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "5ef15ada-4332-093f-ea15-8a8891d863d0",
+    "name": "Neo Frontier Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "a70fd508-44ea-8de3-3b30-d3a7eb9db42e",
+    "name": "Primordium Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "59032dea-4759-1768-74c9-3796a69a0e32",
+    "name": "EX.O Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "9d71edb0-453c-defa-507d-57aa2935b379",
+    "name": "Horizon Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "b9ee2457-481c-6776-3f5b-0ca8e8f90c89",
+    "name": "Prime Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "b6f79657-4a6d-e2ae-3d64-4fbcde2958a4",
+    "name": "XERØFANG Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "41b55c92-4aeb-9c86-854a-4abcd48ea0ba",
+    "name": "Avalanche Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "231528b8-44aa-1063-553e-ce8ef9846383",
+    "name": "Bubble Pop Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "580dc7c6-4342-86fe-1fe8-c4b63e212fc9",
+    "name": "Guardrail Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "a810ec6b-46e7-767d-7186-2cbe49e7fe1b",
+    "name": "Black.Market Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "a383091d-4c7a-eb6d-0f45-e78232ede644",
+    "name": "Prism II Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "11a93854-44f0-bd66-f434-3f81744ddd8d",
+    "name": "K/TAC Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "1df79598-42a0-a433-0aa5-c79047c32779",
+    "name": "Aemondir Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "aa687701-45af-5af3-b9c4-cda426334f6c",
+    "name": "Smite Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "b3a65992-469c-bab8-736e-49bbda91c650",
+    "name": "Monstrocity Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "6d0e7907-45e1-ca59-3bd4-66a454963957",
+    "name": "Solarstride Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "6460e252-48ef-8312-6f4f-2cb5f1b56972",
+    "name": "Nunca Olvidados Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "30fd16af-4560-b2e2-7780-ee8148a0946a",
+    "name": "Luxe Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "4ccb9517-4762-eb45-1242-7ca667223459",
+    "name": "Arcane Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "148d7f02-4259-9c17-a1a4-6fa220a56551",
+    "name": "Magepunk Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "15cc1aab-432f-34d8-e0e8-d2925d54324b",
+    "name": "Champions 2025 Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "b7d1f96a-4cd1-42f3-ff31-86bbc6fa3576",
+    "name": "Minima Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "c2c7746c-496a-6372-bd7a-3186276db2d1",
+    "name": "Valiant Hero Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "bbd3a52f-411e-3475-a6aa-ea88b54de53c",
+    "name": "Overdrive Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "d758abc0-4d99-62d3-b22b-0db0e57de881",
+    "name": "Silvanus Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "8b688de6-42d3-9430-8f38-32b0b3d1c2c6",
+    "name": "Crimsonbeast Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "d8d5d7a1-4d81-8560-54bc-0692ab40f69b",
+    "name": "Kuronami Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "cc1d385c-4d29-ceec-c209-578823fffba8",
+    "name": "Belaflaire Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "596ce51d-40e3-dc21-b02d-b08d070a7883",
+    "name": "Ion Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "7156c2ee-41fc-f8f4-d457-ebb287965c08",
+    "name": "Oni Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "9b4adbf3-491d-aee7-0df2-2282476e2814",
+    "name": "SilkLeaf Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "f328add7-4710-ab8d-95bb-409bc8278a35",
+    "name": "Cryostasis Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "04d8cc84-468a-b696-85ae-a193077838ed",
+    "name": "Luna Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "72c1e90b-40ca-4304-02eb-28bb2aea4ed2",
+    "name": "Sensation Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "9c808029-48f5-ce89-21c5-88bf4228d2ed",
+    "name": "Random Favorite Skin",
+    "weapon": null
+  },
+  {
+    "id": "5e080cdf-408c-a193-1eb9-7fa3af301f00",
+    "name": "Orion Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "1b9b0131-42fe-b6a7-d212-699b342ba642",
+    "name": "Rogue Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "4f1823dd-4a17-7511-6ac8-4aa28a6a263a",
+    "name": "Blackthorn Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "f946ef5c-46ab-e146-a712-1d99a1651356",
+    "name": "Sakura Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "9a6c6db7-4f56-12d6-8339-6386f12090e8",
+    "name": "Schema Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "1bac9c87-45f6-ee1c-7f12-56a3e2658478",
+    "name": "Keys to Elysium Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "7c4f7e27-4dcb-0b66-659f-cc94d720e67e",
+    "name": "Holo Meridian Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "6b58163f-4426-8abf-8f55-f79e3a2045df",
+    "name": "Lycan's Bane Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "b788270a-420f-b824-2cdb-4d90dc7e9b22",
+    "name": "Transition Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "b494ddd1-4459-6976-6736-00a563a74376",
+    "name": "Aeris Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "a7273af3-4e5d-ca73-c558-108f5198fd39",
+    "name": "Byteshift Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "5ffd50b3-484b-0df8-0638-6ba043049841",
+    "name": "Torque Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "e8df3725-40de-b8ec-77bd-62a989685a85",
+    "name": "Sentinels of Light Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "30388628-42f0-606c-82c0-73ad43de997f",
+    "name": "Reaver Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "f2b034e0-4b54-5abc-25c8-d293b6f1d247",
+    "name": "Tethered Realms Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "1eb7639f-4e90-5b5b-9f53-a792103d6f29",
+    "name": "Cavalier Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "01780683-4563-2845-8d41-daba73b3daca",
+    "name": "Paceline Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "e8dc658b-4c7c-2338-facd-7d8d2813560a",
+    "name": "Titanmail Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "4fc36214-4492-ef57-f8fb-4cab81863545",
+    "name": "Mystbloom Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "27f21d97-4c4b-bd1c-1f08-31830ab0be84",
+    "name": "Standard Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "4f5ee03a-4204-5526-6941-bca4f911a768",
+    "name": "Evori Dreamwings Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "e06fd704-4171-b5ea-5028-d3befb62107d",
+    "name": "CYRAX Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "44a98286-4e42-6976-937f-c982c5a31a79",
+    "name": "NO LIMITS Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "e524db84-4470-2df6-b34a-778a83ac26e0",
+    "name": "Sandswept Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "f2871246-441c-5f41-3dac-13947139adec",
+    "name": "Depths Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "e24d739f-41e9-a376-8fea-d5a5d715ebe9",
+    "name": "Wonderstallion Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "8c22a4b2-4da0-f2f2-9bd1-c89d106cd646",
+    "name": "Ego Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "d9131930-4172-ec7b-f3ef-a4a33f6e0193",
+    "name": "Holomoku Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "32b87592-45ad-c5a6-44ae-a9b844137c58",
+    "name": "Wasteland Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "caf8d2e7-4763-b990-4f2e-59b551d7576d",
+    "name": "SplashX Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "16716d68-4d36-320f-aafd-f6a6bfa5abe2",
+    "name": "Winterwunderland Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "7deb9e7d-4e30-8da4-a974-12b0ff6e0508",
+    "name": "Storm Maw Vandal",
+    "weapon": "Vandal"
+  },
+  {
+    "id": "9a107ffd-462d-9fc1-241d-759fbe79c02d",
+    "name": "Frequency Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "26d0c312-46c2-1912-302a-b7b8f62640ca",
+    "name": "Araxys Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "8c6f8399-447b-a7de-7c93-b69273b054ac",
+    "name": "Neptune Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "e8bf5459-4789-f9bd-bfd1-c5bcafec96a6",
+    "name": "Radiant Entertainment System Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "c610dbc8-4a90-3c86-7f9e-bfa910f75bb9",
+    "name": "Aristocrat Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "3f8be578-4e47-8afd-1e6c-cb9bb326e8b5",
+    "name": "Endeavour Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "fbe04552-445f-f202-923e-6fbd61b7e2aa",
+    "name": "Spectrum Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "f77bd50d-422e-963c-1fd3-119f80c57a74",
+    "name": "Bumble Brigade Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "9d806fb5-44e0-4756-977e-188df6473fe0",
+    "name": "Heartbreaker Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "86c905f3-46d4-762a-e75a-4d8412c311e0",
+    "name": "Aperture Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "aaafdaa2-429d-110c-3dd7-d4b975f1cdc8",
+    "name": "Tactiplay Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "9c056543-44af-0d36-d0f7-1196d93d264e",
+    "name": "Striker Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "8594c025-4c96-e258-13da-53a2f747bca2",
+    "name": "Rune Stone Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "b6ba04a0-4c06-6bfe-2f03-a393be1544a9",
+    "name": "Phaseguard Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "d6d62966-4fdb-267a-ee37-35a79143248b",
+    "name": "Bulletbox Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "970e24f7-41df-3ebb-c668-61a180d9d2f2",
+    "name": "Nocturnum Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "6c3b641c-4702-4eb6-cd26-ab851c04b8ba",
+    "name": "Verdant Cafe Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "4be8d0e7-48e0-eaa3-1db4-85a14094f369",
+    "name": "Undercity Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "285c6731-4451-b930-7a3d-c5a736d00f5e",
+    "name": "Glitchpop Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "8a50f044-4b00-0baa-c088-9eb666b4699d",
+    "name": "Emberclad Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "c5676fb6-4268-d5bd-f2f7-f3a1334ca8b8",
+    "name": "Prelude to Chaos Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "23399beb-4828-0d03-ae24-aaa62b08f796",
+    "name": "Rush Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "e7a07081-4e80-7195-9df5-6d9ddbe597f9",
+    "name": "Chromedek Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "706dcacc-432b-47e5-3cf7-2db432a8afe6",
+    "name": "Velocity Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "cc8ad3b2-4b0f-6e8d-eae0-c98cc55d002f",
+    "name": "Shimmer Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "0f2da2b0-41cc-2162-cb46-adad9ae4fdd1",
+    "name": "Digihex Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "3d8029c6-472e-c941-fa7b-0bab9e255600",
+    "name": "Hieroscape Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "e931dcc8-48d4-f895-48b1-199ec573625b",
+    "name": "Horizon Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "1cbbdd73-4b22-4faa-acd0-0a9d6ea1963f",
+    "name": "Black.Market Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "0f992024-4c40-2ead-311a-79bc37e5e61b",
+    "name": "Bound Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "a6d3db82-4d02-058e-feda-deabd6b52b46",
+    "name": "Intertwine Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "0101d1a9-42c7-0e85-806b-d2966d9fabc6",
+    "name": "Retrowave Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "f476843a-4fc1-32a1-5e32-c18b84003460",
+    "name": "K/TAC Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "a12db8be-4f3f-b7b6-5f70-92add35b956e",
+    "name": "Aemondir Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "6ff0d2cf-488e-c565-d118-da9bd4ac1e3c",
+    "name": "Soulburst Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "199b8536-488a-09e6-8592-ff9cf21b4ceb",
+    "name": "Couture Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "9c91e507-4241-33d1-c63a-aeb9ec3d9d03",
+    "name": "Nunca Olvidados Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "7a9bda15-4048-575c-a7ff-7191a100fad9",
+    "name": "Perch Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "9187ef8b-46fd-9c8a-2956-29ba60dfe565",
+    "name": "Minima Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "57bfa350-4f93-e82a-714c-d2a01853b587",
+    "name": "Combat Crafts Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "90e750e8-4a42-f5fc-9160-3ea5e5522c6e",
+    "name": "Genesis Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "22d2b265-4ed1-f66e-1462-44bfcc10b49e",
+    "name": "Libretto Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "325d2274-487b-8672-84d6-6db8e9798447",
+    "name": "Oni Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "d832f94c-4490-176e-c625-c3a1130cea19",
+    "name": "Cryostasis Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "c2f87e28-4c3b-5dc3-0109-ffa3a0e43f4c",
+    "name": "Hue Shift Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "dbf7b813-4931-3b45-db2b-ea8d418b2b1d",
+    "name": "POLYfox Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "1daefbff-4581-aef3-5ed6-da894d7e4cc7",
+    "name": "Protocol 781-A Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "fbf8ca06-41c9-6293-24cc-b6b292db5cf7",
+    "name": "Premiere Collision Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "7baa9f5a-4ac3-804a-2e47-4da916de0b79",
+    "name": "Random Favorite Skin",
+    "weapon": null
+  },
+  {
+    "id": "0b6f62d3-4a2a-bcb0-edcb-81b7f610b05f",
+    "name": "Rupture Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "b778fd63-4e21-b400-db3b-d1807e3f4edb",
+    "name": "Transition Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "decd0962-453a-1551-47e1-1287aafb5a27",
+    "name": "Infinity Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "724a7f42-4315-eccf-0e76-77bdd3ec2e09",
+    "name": "Standard Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "e4db8f4b-48f5-79e4-2c21-b094eeabbf42",
+    "name": "Spellbound Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "006d6b0a-47ba-a909-ade5-0cba66dd5829",
+    "name": "Tilde Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "0c0cbd13-4601-e6c1-0180-2181e2461c36",
+    "name": "Gridcrash Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "8c7238c8-4161-a5ac-69f2-129f8a4ce5fa",
+    "name": "NO LIMITS Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "f580899d-49c4-8bf8-9718-c9a6a38dd503",
+    "name": "Convex Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "4e6341f9-4851-603d-daff-9185f007d3dc",
+    "name": "Depths Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "e9164092-4c79-b6ae-b844-ba97f566958d",
+    "name": "Holomoku Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "9bba8d9a-461e-9783-fcb7-f1a92192fb3a",
+    "name": "Varnish Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "ffb2f24f-43bd-8735-f9bd-36bde08d86cb",
+    "name": "Wasteland Bulldog",
+    "weapon": "Bulldog"
+  },
+  {
+    "id": "3d71065e-4f0b-19a8-26d5-129cddeb013b",
+    "name": "Task Force 809 Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "499acf05-4f79-e345-3714-57bf7aa163ea",
+    "name": "RGX 11z Pro Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "fac0cea1-45a9-1549-c120-af8f0150e562",
+    "name": "Xenohunter Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "0acbabbe-4f4c-f643-284b-f69029abb54e",
+    "name": "VALORANT GO! Vol. 1 Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "bf797f24-4ec0-a18a-e592-01b48ff77736",
+    "name": "VALORANT GO! Vol. 3 Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "1cb0bdf7-46e1-92d5-b400-988c99f25d81",
+    "name": "Araxys Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "516ff0cb-4d4b-bf0e-d460-92b3c8d27259",
+    "name": "Neptune Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "4eb45d71-4fa4-be4f-7409-cf92123f1d22",
+    "name": "Radiant Entertainment System Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "7ae63121-4cf0-b4db-00ed-eb8ef05572b1",
+    "name": "Gaia's Vengeance Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "980fa063-436e-e51f-c38d-70a5b93a0f1c",
+    "name": "Spectrum Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "d556b1c2-46fa-fca4-0516-5c887fd2352a",
+    "name": "Piedra del Sol Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "052a0ba8-48a5-acd4-f989-87b067140b35",
+    "name": "Composite Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "64c97d19-4142-ce97-7a13-53a5b1ebdc82",
+    "name": "Bolt Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "a67da4d2-420a-c470-7060-ca89e269ca29",
+    "name": "Aperture Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "0a991e4b-44e5-a17a-64c5-309c35dafe3e",
+    "name": "Overlay Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "8c72ae0b-4357-1a75-ad62-fbaec7b64f92",
+    "name": "Champions 2022 Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "cc1da8cd-452f-a007-0bf8-b68a471c3a6e",
+    "name": "Champions 2024 Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "4bdf9f7c-4957-ff27-6e2c-f4acbbcf1ce5",
+    "name": "Tactiplay Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "2371d9e1-498c-1ad1-4f10-d1a339c7fda2",
+    "name": "Radiant Crisis 001 Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "57f91d68-4cda-76c0-c258-7ba507cd6f87",
+    "name": "Nebula Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "320c4baa-41e8-ac8f-91eb-0fbc7bf3c145",
+    "name": "Nocturnum Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "831ca193-4637-0cac-bf97-0598b1852a2e",
+    "name": "Doom Wing Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "ed3ac995-4fd1-3079-27aa-4aab84447833",
+    "name": "Undercity Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "26094344-4ac4-6656-763a-d2b338fea14a",
+    "name": "Doombringer Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "25a7f0f2-4bce-7e45-b4b0-ca9264f5dfcc",
+    "name": "Glitchpop Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "2aac8bb3-4cfa-b806-21e4-5a8e9904caa4",
+    "name": "ChronoVoid Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "43da7fa1-4b01-7e91-d68c-85b0f63c0d8f",
+    "name": "Emberclad Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "2d1472fd-458c-515a-c4e4-ceaa50c84187",
+    "name": "Abyssal Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "ad2c5365-4147-23da-afaa-08b9bfb3817b",
+    "name": "Prelude to Chaos Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "a72c55b6-4cad-3db4-bcc3-5faece01b0ef",
+    "name": "Nanomight Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "3a091315-4e87-31d5-7cdb-27804a177fd2",
+    "name": "Doodle Buds Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "40758d8b-40d1-2c26-fa74-6fa2688d22bc",
+    "name": "Dragon Gate Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "5eec4ce6-443d-e9b5-4c5b-2b967d426bd3",
+    "name": "Singularity Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "7581e975-418f-fe4f-e3b0-08a3000e9a8d",
+    "name": "ORA by OneTap Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "cd07ba8f-4dae-0410-582e-71acdef102ce",
+    "name": "Sarmad Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "8db507b5-4d57-96e0-000e-2d8c8af79550",
+    "name": "Rush Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "4b73b610-4096-60c1-1969-f2b05b53fa43",
+    "name": "Chromedek Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "a17d4eeb-46e5-a041-ae7b-a2841ac6b36e",
+    "name": "Velocity Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "f7a779db-4835-6561-ce1a-d1921a24de46",
+    "name": "Team Ace Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "d34edafc-4e48-b2d7-6163-08bf054d3d80",
+    "name": "Topotek Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "117c0aaa-4cb7-9849-8a4a-d785e24239bb",
+    "name": "Interhelm Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "5faac1ff-41e3-0675-ee8a-9f8b42970f3b",
+    "name": "Last Stop Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "dfab2585-4897-1355-2e7b-2d873be07005",
+    "name": "Nanobreak Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "4daff9cb-46b4-734b-8352-b29108095864",
+    "name": "Jellybeam Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "52417dc8-48b7-111a-b63b-5db108b2e63a",
+    "name": "Neo Frontier Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "98c9bc4e-4fb3-206f-3f6b-06a17b53e95b",
+    "name": "Soulstrife Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "2b89c4cc-4517-c2db-a08f-c484f0f614d7",
+    "name": "Bubblegum Deathwish Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "34560475-4eaa-d2be-b37f-908463413482",
+    "name": "Primordium Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "329c83c1-4af2-5f72-28b7-a7864e9d368c",
+    "name": "Hieroscape Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "44b7b110-46bf-ccbb-2613-29a5df296461",
+    "name": "Prime//2.0 Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "c38dced0-454d-d296-522e-6f8643decd3b",
+    "name": "Avalanche Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "2f1da068-4779-d711-85ae-90840f0e38fa",
+    "name": "Bound Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "6586a7db-4041-6a29-f37c-d6817657caa5",
+    "name": "Prism Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "a903e567-480f-a3f9-adb8-1da714a2d63c",
+    "name": "Serenity Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "5b43d27b-419c-f2bc-53fe-d7829dad46b3",
+    "name": "Ruination Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "e13afe1e-4734-2094-fee8-9db016e4d54a",
+    "name": "Kingdom Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "8f82cff0-44b9-b792-8dd2-b2be8538421b",
+    "name": "Kohaku & Matsuba Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "8d3ead4a-4421-f1f2-4292-ecac859fc135",
+    "name": "Smite Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "228192a7-4d45-0a11-1439-b8b110141a43",
+    "name": "Daydreams Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "b294ba9c-4e05-ebb4-b2be-4e8799ee3fc7",
+    "name": "RDVR Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "8c0cc1e8-4c1b-20a0-122d-16b4334d1b80",
+    "name": "Celestial Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "f2531d6f-40d8-ad18-4e74-ed812e0a6b1f",
+    "name": "Magepunk Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "13f553a1-4124-7c29-05e9-e7932fdeabb6",
+    "name": "Spline Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "ea5120d6-4160-8599-2fa1-108c5ff45d43",
+    "name": "Perch Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "2e3538f1-450f-cfe6-f93e-73862cd39314",
+    "name": "Minima Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "fac695ab-40d4-e97e-2319-a8bab4dcb610",
+    "name": "Combat Crafts Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "af9b3af7-4ae6-2e07-3819-6da4bc9d50b9",
+    "name": "Montage Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "41892314-4a99-0048-1838-e38cd680ea26",
+    "name": "Galleria Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "25824735-478d-30b7-8fc9-95b1999f9d3b",
+    "name": "Silvanus Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "5f4992ca-4a26-a926-2b0f-53a2e28d9c9c",
+    "name": "Insidious Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "3f6410af-4fd7-74fb-c0f4-6ab61d30022c",
+    "name": "Kuronami Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "e86bf7e4-4dd3-fbee-533b-fa875344bbaf",
+    "name": "Ion Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "36791b03-452d-8dad-0091-898cc28d2196",
+    "name": "Oni Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "4cd5b984-4ef3-017d-36f1-5d8129a95fec",
+    "name": "Switchback Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "762aca85-4bf4-73a5-932a-2aa8407c31b3",
+    "name": "9 Lives Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "3a204da4-4aa4-d02f-73a0-55867bc8d501",
+    "name": "Hue Shift Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "56f075b7-4171-a977-90ac-d5ad786f1478",
+    "name": "Aero Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "909daea4-49ab-7b99-46fb-aa8c9e6fd837",
+    "name": "Artisan Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "9877d50b-43b1-837a-802a-bf8a3b98e2dd",
+    "name": "Protocol 781-A Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "fff73ad4-4d46-a6d9-43f1-51b633845434",
+    "name": "Random Favorite Skin",
+    "weapon": null
+  },
+  {
+    "id": "29665396-4dc8-c409-5e38-228949690f1e",
+    "name": "Lightwave Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "8588c8ff-47a5-3900-0518-d6a80b31ba35",
+    "name": "Orion Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "46e46c47-45e6-cf2d-0fae-32ad3ab7e92c",
+    "name": "Hi-DR0 Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "80b755a5-4fce-0529-8678-969eab271efe",
+    "name": "Shellspire Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "fe7cd972-4651-2865-257b-51846321ad61",
+    "name": "Helix Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "a74f77fd-4e69-f16e-b1eb-ceb5198f423d",
+    "name": "Snowfall Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "a8652d02-458c-461c-8aa8-b7a520455023",
+    "name": "Sentinels of Light Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "044b28ba-4c3b-d315-140d-d9a249da5567",
+    "name": "Reaver Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "42fe7bf8-40ba-b1f4-df5e-34a6f51f29bf",
+    "name": "Sovereign Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "d67b929f-4431-61c0-286e-3ebf3d11c4af",
+    "name": "Recon Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "ce85f078-474a-eae4-3844-03a49625df15",
+    "name": "Mystbloom Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "1f835677-4ed7-fec2-6b80-c3ac384323f6",
+    "name": "Infinity Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "fb86d3b7-45f2-6a97-c468-51ab29cb4a04",
+    "name": "Reverie Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "337cb216-4a6e-d85d-88c2-f29ab317784c",
+    "name": "Standard Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "cb6664ae-40f4-2676-da7d-7f974b3407f4",
+    "name": "Heartseeker Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "b737c103-4c61-5a4b-33e1-f0a12f9ceba8",
+    "name": "Tacti-Guild Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "034de367-470f-28e3-26e3-dfaa8e598acc",
+    "name": "Fortune's Hand Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "e0cf9566-452c-1501-43b1-778e69c60dbf",
+    "name": "Tigris Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "59af9c5d-43ee-1360-f3a7-a9a6ff6e478b",
+    "name": "BlastX Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "de6a71fd-46c5-157f-49a1-06b3923aad22",
+    "name": "Solarex Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "02ed7299-4035-c973-4a26-9f8c6d454e63",
+    "name": "Blackspyre Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "33f1ae2c-4bd3-97eb-1798-57ab067ce805",
+    "name": "Wasteland Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "a5c64455-4fd0-9207-fc97-e086af99a2a6",
+    "name": "Winterwunderland Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "d1b142ce-4a6a-cdcd-7f64-eb970cacfc16",
+    "name": "Convergence Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "c1b96274-4346-2ea4-65f4-ec957d217922",
+    "name": "Ayakashi Phantom",
+    "weapon": "Phantom"
+  },
+  {
+    "id": "a3183a40-4e1a-4fd2-4b39-cab81300bdf5",
+    "name": "Space Piercer Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "8b1dcb7f-4e76-1d0d-0c77-fcbad16aed98",
+    "name": "Divergence Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "6c9206df-444d-8c81-789f-02af9b99ad61",
+    "name": "MK.VII Liberty Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "d7717613-4ef6-b314-6a95-9e8a1ee603bf",
+    "name": "Piedra del Sol Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "70d69cbe-4380-9b25-2a21-46ad9817318e",
+    "name": "Bumble Brigade Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "b5526d6e-4534-2a4d-2968-259dc27d44e0",
+    "name": "Tacti-Treat Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "e413125e-40c6-cccd-de35-f28e34c57442",
+    "name": "Undercity Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "628302c6-488a-f613-5308-15907fcdc253",
+    "name": "Doombringer Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "28a659a4-439e-fcd0-6236-d39979ee5c51",
+    "name": "Glitchpop Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "4d2ec3f4-446e-a501-74d8-5ab750f50984",
+    "name": "ChronoVoid Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "0221b120-444b-6d1b-fc50-e4a98e470eb2",
+    "name": "Elderflame Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "138d9143-4b8c-9201-2fe0-97b4c2b94402",
+    "name": "Dragon Gate Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "e661e655-421f-0f19-3092-c8a668036ac4",
+    "name": "Imperium Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "f6db3976-4c70-c3bf-01f8-dca6d335319a",
+    "name": "Rush Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "fdf7fef7-43db-9409-be4c-44bc0b5084f6",
+    "name": "Team Ace Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "9057aaed-43eb-292d-1c4c-2b81c3bca663",
+    "name": "Interhelm Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "ce38c32d-43e6-e840-3981-668454383e22",
+    "name": "Shimmer Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "94020428-4937-3173-8286-28bd4b7de57c",
+    "name": "Nanobreak Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "fbd23fdf-4d7b-8a50-afa5-c3ad6e7266e5",
+    "name": ".EXE Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "d0121236-46bc-c797-42f2-dbb41093d8fb",
+    "name": "Jellybeam Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "4fd7995b-492c-7cfd-36f8-a68ddf07f3e5",
+    "name": "Digihex Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "37735cf0-4c4f-6efd-6222-8582622d68a0",
+    "name": "Goldwing Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "3d8f9c7d-4259-4710-1f94-0fbc4f25035c",
+    "name": "Hydrodip Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "caf6ad17-4888-3241-230d-849c48d21473",
+    "name": "Bubble Pop Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "400d71b1-4090-6abf-224e-21938569fe24",
+    "name": "Outpost Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "1c7e4522-49f7-4125-a7ca-1f8c943c804e",
+    "name": "Bound Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "1fc3f066-4211-d65a-42ab-b287c6bb2448",
+    "name": "Prism III Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "3a1c857a-4671-0667-8efe-ee90b8ba1e5a",
+    "name": "Serenity Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "da3cedea-4f2e-c501-ec79-438433ffabdf",
+    "name": "Kohaku & Matsuba Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "5324bc65-44aa-1a16-ede4-0e9b56f35d0e",
+    "name": "Smite Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "fab8bdfa-49c1-dfe1-5a15-538dc3f288af",
+    "name": "Daydreams Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "0cba5a5f-41ab-ed7d-158e-4fb92ab25c47",
+    "name": "Iridian Thorn Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "57ad1e5d-4289-4de0-7926-899cef10db37",
+    "name": "Celestial Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "5237cfca-4d83-6190-a7f9-d2bdc117ea67",
+    "name": "Luxe Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "0b8816a2-42ad-9353-c591-f7863981d7fe",
+    "name": "Coalition: Cobra Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "babd42b8-44ed-ba23-efe4-f0b6710f32ea",
+    "name": "Combat Crafts Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "5e342c5c-4757-4c4e-ca7c-a4b97930308b",
+    "name": "Crimsonbeast Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "5d217dd0-4f2c-cfca-274e-3f8f9d518b13",
+    "name": "POLYfox Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "a913d712-4c29-d7f4-0f8a-d790e023ba3c",
+    "name": "Divine Swine Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "ba93a991-407f-0c47-2d26-72a4196b4164",
+    "name": "Jigsaw Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "8e27a0b3-4dc9-e2a7-e33a-29a616efc244",
+    "name": "Sensation Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "68f2e92e-4c94-8104-ed99-03925bbc71e8",
+    "name": "Random Favorite Skin",
+    "weapon": null
+  },
+  {
+    "id": "d07a7266-4757-1da9-e957-baa93c9fc43f",
+    "name": "Holo Meridian Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "00947f74-4daa-dd59-32cb-4fa1ac6611af",
+    "name": "Silhouette Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "4c875ec1-48fa-a867-1fd0-34ba208846e8",
+    "name": "Rupture Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "3c591590-48d3-d123-3a68-9291d35ab11b",
+    "name": "Byteshift Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "a07941d7-42dc-5083-97a1-af850ca6fa26",
+    "name": "Snowfall Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "bd034009-469c-88a6-41aa-278dd54b12e6",
+    "name": "Sovereign Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "5c8d1196-48d8-2bbc-fac0-57af71a18c97",
+    "name": "Mystbloom Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "acd26127-48ff-8b9e-7ba6-b989af8a4b24",
+    "name": "Standard Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "91cea710-495b-fd95-9e7a-6c928a0c5449",
+    "name": "Tilde Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "4b77be03-4410-1ac5-0b9e-82b326cd990f",
+    "name": "Gridcrash Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "1b3bc043-40d5-12f5-7ef1-bcadf7977e9d",
+    "name": "Tacti-Guild Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "03751fa0-46db-0df3-b8cb-99adf373ecda",
+    "name": "Convex Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "87591a69-47c1-a052-ba85-33a8097a0b07",
+    "name": "Varnish Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "309743ac-4288-11dc-d563-88844caa2c4d",
+    "name": "Storm Maw Judge",
+    "weapon": "Judge"
+  },
+  {
+    "id": "613152c2-47cf-be72-9b45-b6958117b220",
+    "name": "Altitude Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "e1fed5e0-4369-7de0-2545-b6ab4c0f7369",
+    "name": "Sky Reaper Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "0666931c-4580-efd0-af47-afb9f2f72e55",
+    "name": "Xenohunter Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "55636f8c-4c03-c09d-79df-6b968a693ad5",
+    "name": "Frequency Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "892b5053-4c0b-149e-38d0-c3a8d6f24384",
+    "name": "Gaia's Vengeance Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "001e4ce2-4b30-8203-365a-828e2e3a5826",
+    "name": "Piedra del Sol Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "96495eb3-40db-cb5b-1c69-17a3dde58ee3",
+    "name": "Origin Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "31072cda-4041-b4f0-119a-3692ea598321",
+    "name": "Radiant Crisis 001 Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "b90cbe0f-4339-ccc2-8069-15bb585bd5c9",
+    "name": "Bulletbox Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "e47b971f-4eaf-89b9-a42f-7f8a01cf3106",
+    "name": "Crash Out Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "1322a9a8-49ad-bc3a-2319-fb866e21334c",
+    "name": "Red Alert Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "aa6162a5-4c73-1c6f-5c69-9b9082e321fd",
+    "name": "Surge Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "4a1d582d-4c3b-6595-57b6-e3b2cf0ee543",
+    "name": "Topotek Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "22eed65a-49e6-ec39-f6dd-7399fcdfa6e7",
+    "name": "Moon Scout Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "82204cf0-4a3d-2802-6eb9-9eac53472a3f",
+    "name": ".SYS Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "d493bec2-4e3f-19cd-8363-b1921489413c",
+    "name": "Horizon Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "8f26c1e0-46b7-72d2-8307-11b03f3332f2",
+    "name": "Monarch Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "50b0db3d-46a9-5c2f-2e57-7fbeedf30362",
+    "name": "Hydrodip Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "89eebdb1-4df6-0a1d-8988-f495cca4badb",
+    "name": "Prime//2.0 Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "a6b07d50-4731-2775-042e-a896cb51bf13",
+    "name": "Prism II Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "0344b901-4500-8843-fd9c-97b63ee729cd",
+    "name": "Retrowave Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "75e55415-45ce-b48b-b471-84bef2368e33",
+    "name": "Kingdom Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "ce298668-4034-ebe2-3324-67963d4d3629",
+    "name": "Aemondir Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "e62c8fc3-4be4-a8e1-9b77-ba910e3389c7",
+    "name": "Smite Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "d95fe9cc-4b39-6f54-1912-d796b5912481",
+    "name": "Iridian Thorn Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "5ac14aef-41cc-a0c8-895f-e1a69b33aeff",
+    "name": "Magepunk Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "4fca7cd4-48b6-130f-01fc-fa87974bb622",
+    "name": "Overdrive Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "2a0700dc-4181-ae19-2b49-818b24dceacb",
+    "name": "Galleria Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "daf3c0d8-4c6f-23c0-20cc-96b0386b548f",
+    "name": "Genesis Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "f2179ca3-4fe8-e44a-0a33-94a70ce8a183",
+    "name": "Belaflaire Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "31f6f214-4379-749a-9285-04a5561e2d03",
+    "name": "Ion Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "7da96a2a-43ce-91c2-28f9-0c95529d133e",
+    "name": "Oni Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "1a97f146-4fcf-5a04-140e-4390feafaa73",
+    "name": "Artisan Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "ed407bc7-4949-3131-b84f-d6be83b63a15",
+    "name": "Random Favorite Skin",
+    "weapon": null
+  },
+  {
+    "id": "0dc9a874-41c5-e582-9a36-37946043346c",
+    "name": "Gravitational Uranium Neuroblaster Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "058322eb-44fc-8dee-947c-8b95a550ba10",
+    "name": "Panoramic Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "26582dc8-43dd-15b6-a31c-739b90302bea",
+    "name": "Lightwave Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "ea3e6c8a-4e5e-baf9-33c3-7abacf07aaee",
+    "name": "Rogue Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "e6eefed6-4d10-5794-4859-6d9ab5ff1d66",
+    "name": "Cavalier Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "1ecb1abc-41a4-f789-39a5-4583f043d688",
+    "name": "Titanmail Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "70c97fb2-4d79-d4bb-5173-a1888cd4bfd9",
+    "name": "Standard Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "42dc2eef-480a-8980-1fa1-6ebfdb5155a0",
+    "name": "Spellbound Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "cf2cc18c-42ec-3fb0-4ca7-3583373a33ab",
+    "name": "Aerosol Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "bc0478c8-4b7a-b6f6-eb1e-95bab0485435",
+    "name": "Stormborne Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "949e3298-4875-c495-9978-ec87f3a85118",
+    "name": "Wasteland Bucky",
+    "weapon": "Bucky"
+  },
+  {
+    "id": "1bd0b030-49b3-4733-d6f0-28bcb7ed6df2",
+    "name": "Task Force 809 Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "e7785790-4db4-cfcb-dd50-42b36f74176d",
+    "name": "Kaleidoscope Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "d5ea8ae9-4055-9b65-1f39-ed97372d887a",
+    "name": "RGX 11z Pro Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "a4b0cd8b-40dc-41e3-646d-d58802b2e310",
+    "name": "Xenohunter Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "037b8cde-4a42-20c3-c6d5-e39aa37f9ee2",
+    "name": "Bolt Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "7d05d1ce-4bf2-fa96-d8f4-dca86052e3d2",
+    "name": "RagnaRocker Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "cceb25d7-41e7-1944-515f-2eb5695fd5cc",
+    "name": "Origin Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "37c6c05e-4a8d-b3b3-4ed2-3db82a8bba99",
+    "name": "Bulletbox Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "5596d764-4b62-210b-59db-7982e9d4c23f",
+    "name": "Glitchpop Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "e208b1f1-41bc-9750-35c9-448cbdd4c200",
+    "name": "Emberclad Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "c8b1923b-4cda-a532-7616-4b9a9a2cfe15",
+    "name": "Nanomight Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "4fb9ea7d-45a6-9154-7a46-648781b081c4",
+    "name": "Elderflame Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "3fd33106-4816-c257-d27f-2b86c5d76c66",
+    "name": "Sarmad Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "a010c5fc-4343-067d-4dfb-ee836ec0a45f",
+    "name": "Rush Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "5c0965bc-4860-94a3-a133-b29b08f75051",
+    "name": "Venturi Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "5947209b-4864-fb3b-bc48-74a7924e4412",
+    "name": "Team Ace Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "d6af3716-4ab5-8204-a2f4-1eb4ffc51088",
+    "name": "Swooping Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "54719b64-4930-b52d-7a15-d8b479b06bf0",
+    "name": "Hieroscape Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "17162b11-45fc-5b66-2e49-79ac9d60032c",
+    "name": "Horizon Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "b543f6c4-4404-4e5e-1fcf-67a0cd8e9bc4",
+    "name": "Monarch Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "8256eb2c-4368-9da8-521f-379c3793dce1",
+    "name": "Hydrodip Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "51446541-47dd-b661-470e-9d89b3b6a33b",
+    "name": "Prime//2.0 Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "e89209cd-4ec7-53ad-2d34-a8807764a60f",
+    "name": "Guardrail Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "068cf886-4688-6609-e79f-d4b6afe1d3cb",
+    "name": "Blush Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "08bfb08f-48cc-2699-2f5c-aabec43dd43a",
+    "name": "Couture Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "a878b90b-4d32-6e85-d49e-82bfba69471f",
+    "name": "Nunca Olvidados Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "307dbbc2-442d-b92b-0af2-278a8505672a",
+    "name": "Celestial Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "0ce7539f-487a-9c4b-5a41-3fa338f5abcf",
+    "name": "Tacti-Series Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "bb46d680-4e05-bacd-6ecd-11895d2f22e7",
+    "name": "Coalition: Cobra Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "a024e3fe-4b05-310f-d11c-0b873744f356",
+    "name": "Combat Crafts Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "66823deb-48b3-dc1b-81a1-69b59b9e4b0f",
+    "name": "Montage Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "3d4d02e6-4529-d719-0166-eb988b220cac",
+    "name": "Insidious Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "87643553-437b-d057-8f06-25b5bd723378",
+    "name": "Moondash Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "906dcda9-477a-6d09-f85d-599ccb86e168",
+    "name": "Ion Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "7a20502f-45b2-6781-b408-08bc86c5e5e2",
+    "name": "Oni Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "5bb5acb1-44dd-184b-484e-319188ef78eb",
+    "name": "Spitfire Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "12e6f520-460b-e69b-0617-bab9fff1a134",
+    "name": "Aero Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "fa0bb312-4446-a061-9b06-ee88314e07fa",
+    "name": "Divine Swine Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "531135cc-48cb-68bf-8c99-149e46670c80",
+    "name": "Sensation Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "7b82c605-44bb-aae9-55bf-a4afef323553",
+    "name": "Random Favorite Skin",
+    "weapon": null
+  },
+  {
+    "id": "f67d4d78-4567-f8ca-010b-18919c49aa05",
+    "name": "Lightwave Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "d02d21e4-4b57-945e-c504-e8af1bdd488c",
+    "name": "Orion Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "9977a737-4bb5-8af1-ea9f-e1accc80ab1f",
+    "name": "Silhouette Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "b6d415e1-41bb-0a8c-9991-49b7d70b1faa",
+    "name": "Shellspire Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "daaeb0f9-413a-732d-e6f0-598b9dff65a7",
+    "name": "Sovereign Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "67f86b80-4411-b593-7ecc-01839637cb85",
+    "name": "Paceline Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "324c837d-4e55-a259-0852-92bc27e724da",
+    "name": "Titanmail Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "f7fc6f86-4599-e131-e392-d6b2dfabd8cb",
+    "name": "Live Wire Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "f06657f3-48b6-6314-7235-a9a2749df5b9",
+    "name": "Standard Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "73546b5a-49f1-3f9c-bb3c-ad8b62659c99",
+    "name": "Spellbound Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "d3118d7c-479c-a44a-9b45-6cbe1ab42f0e",
+    "name": "Wonderstallion Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "79005812-4d5c-cc6d-e2bd-19bc86c29349",
+    "name": "BlastX Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "ba0c978f-4676-adae-c2cf-70b07303dc0e",
+    "name": "Haloform Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "a1f91e04-40ff-76a0-4439-028a511e6f36",
+    "name": "Holomoku Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "29c91578-4aea-6177-2d0f-469f77ca9616",
+    "name": "Convergence Frenzy",
+    "weapon": "Frenzy"
+  },
+  {
+    "id": "ea9da25c-422d-d256-a970-cbaeb55542bf",
+    "name": "Resolution Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "31d2a8a4-432a-0c76-a5d6-b695d01f62a7",
+    "name": "Steel Resolve Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "89db82ba-4bf6-8bc0-1131-248ee1e90742",
+    "name": "Headbanger Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "0d065a05-4ef3-44b6-95dc-76ac19038d4b",
+    "name": "Fiber Optic Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "111680fd-4562-f658-af1c-ed8f9cfe9f9c",
+    "name": "RGX 11z Pro Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "5077ebbc-4adb-bb8e-762e-6cb6cc9262f4",
+    "name": "Intergrade Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "b06e13ff-4f19-c750-ffcd-8084dfc3bbf5",
+    "name": "VALORANT GO! Vol. 2 Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "7da50c2f-4358-98b6-b0fd-c6afb207f391",
+    "name": "Divergence Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "97d19265-4fa2-70ef-5f8c-6b9f03860705",
+    "name": "Neptune Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "46f32f75-4fc8-7121-8a77-db8db43afc67",
+    "name": "Spectrum Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "2a9b2724-4b86-8622-0243-529b85527d17",
+    "name": "ATLAS // CMD Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "34919680-4f00-554b-0c2b-95acca7d0d36",
+    "name": "Pistolinha Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "6f6b606f-4d9c-c071-b817-9ea59d5b02d3",
+    "name": "Striker Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "a95d08be-4e56-1189-801b-d9aa4efe32fa",
+    "name": "Radiant Crisis 001 Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "051f5a50-4b95-9452-f18a-a1add8266757",
+    "name": "Nocturnum Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "bc298988-4951-4d72-4845-01b0986246dd",
+    "name": "Verdant Cafe Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "41fce834-4c76-a0f4-2cf8-cca3ae879eab",
+    "name": "Red Alert Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "ac14dca7-408b-7e8f-8ed0-99b8ed1ffe98",
+    "name": "Undercity Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "8b2598eb-4db9-6338-4a25-c780402c780e",
+    "name": "Glitchpop Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "3af7fef0-48cd-64d3-cead-dcb9cd07865a",
+    "name": "Finesse Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "6cc70eae-4297-91d5-adb9-efa48004da77",
+    "name": "Surge Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "10354287-40e9-4087-85c5-aea7289d31f2",
+    "name": "Songsteel Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "c612138e-4007-6d0c-64ad-3690c65ee4a7",
+    "name": "Forsaken Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "89793303-4735-a4e0-a49d-608c69c4785e",
+    "name": "Interhelm Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "960fa9ae-4f42-9601-c722-a797a90ec122",
+    "name": "Superset Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "9a6d4520-48a6-d46c-5a3f-2ab0b10dd8f6",
+    "name": "Shimmer Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "2136523c-4847-30e8-2e19-b381be7afac4",
+    "name": "Dolmir's Revenge Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "144ac55d-42b9-338c-fb32-c9a31f4da5bb",
+    "name": "FIRE/arm Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "1180c78d-4b0d-491e-efdc-cfa5d948fa27",
+    "name": "Goldwing Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "d653f4a7-4e92-2559-0a97-2c9d46d009b3",
+    "name": "Prime Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "6b6a219d-490a-45f1-1e5c-40bbf3df5f28",
+    "name": "Avalanche Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "d90a940b-4040-4c7b-7a9b-7ab574429226",
+    "name": "Bubble Pop Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "a6b46cef-4ed2-79e4-d49a-459180cdbd23",
+    "name": "Black.Market Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "94bc4d7a-4b88-4c84-efef-969cdf84019e",
+    "name": "Bound Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "62abf8b2-4511-131d-42c9-81a5efd1b901",
+    "name": "Prism III Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "b20cbd60-43c3-e625-b615-1aaf9d9a79a0",
+    "name": "Yoonseul Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "e72d72ab-4284-1469-b544-478a811a29a6",
+    "name": "Kingdom Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "be7cf362-4993-b9e4-9ba9-cdac6c99b8e4",
+    "name": "Kohaku & Matsuba Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "22fdc42d-4ad6-2bec-8033-8a8bdf178826",
+    "name": "Smite Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "9a890a05-4173-c5af-743c-f2b423fae42d",
+    "name": "Daydreams Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "750d4f04-4fea-391b-fa8b-539815a63164",
+    "name": "Spline Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "815c8781-4f80-9a81-19c3-5f97c93aab90",
+    "name": "Tacti-Series Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "2f9f4637-4377-b55f-97a1-1e8974e29b27",
+    "name": "Galleria Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "3d238836-4e86-67bf-8664-52bb0e8a1a83",
+    "name": "Switchback Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "edb386a1-4d02-4fd0-2f84-f8bf6434e5c4",
+    "name": "Cryostasis Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "f3f962bd-4a19-b363-e939-6a91b897a28c",
+    "name": "9 Lives Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "c4c0edc9-4ce3-3945-81f5-1bb80aeb22fe",
+    "name": "Premiere Collision Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "3e3ad47a-4383-73f1-4d92-1693059dae8f",
+    "name": "Random Favorite Skin",
+    "weapon": null
+  },
+  {
+    "id": "81ddbfcd-4081-8341-ff76-ad8cdb26ce4c",
+    "name": "Gravitational Uranium Neuroblaster Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "223852c7-4898-01e7-c813-5db4f1769e3f",
+    "name": "Panoramic Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "66668fb4-4143-bcf9-fd35-b39d93a13257",
+    "name": "Blackthorn Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "6ba7a7a0-4057-4d5c-7c98-579f232db298",
+    "name": "Sakura Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "24bf5130-4afd-e818-3592-f8901921fc29",
+    "name": "Torque Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "464887be-4a07-690e-2d02-e187c8bbe8d5",
+    "name": "Snowfall Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "706f4a29-4a95-7370-c983-1a8b167e38b7",
+    "name": "Infinity Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "8bc021a4-4832-300e-2844-afa3d1d9465f",
+    "name": "Reverie Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "24aee897-4cdc-b0fd-e596-1ba90fa6d1b2",
+    "name": "Standard Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "7ced9fcc-48bd-0eb6-4b4c-4faf3d8a3995",
+    "name": "Refractrix Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "34a8c776-47a9-e15d-fe4d-0c86b2cefb43",
+    "name": "Tacti-Guild Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "47d5e54a-48e5-b62a-5cf5-3cb7efc12e90",
+    "name": "Final Chamber Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "481b782e-44c1-a68a-b043-bb91ea1badad",
+    "name": "VCT x 100T Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "442b379d-4a57-9469-c393-65962a25c950",
+    "name": "VCT x AG Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "01af54eb-405f-029d-80e6-c681346dc0f0",
+    "name": "VCT x BBL Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "15104eab-4b4c-0f67-0dbc-efb67e114e7f",
+    "name": "VCT x BLD Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "a13dc2e3-4b2e-6551-df89-3f857c4a4612",
+    "name": "VCT x BLG Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "429437e4-4bc1-70b1-b3d3-358d9f8b199e",
+    "name": "VCT x C9 Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "17c3d20d-4955-cb76-cdce-c6a7fc0d1eb2",
+    "name": "VCT x DFM Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "7ef0e069-4786-1954-32d8-50ad393be96b",
+    "name": "VCT x DRG Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "027346aa-46a5-875c-4640-ee96ba581ccc",
+    "name": "VCT x DRX Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "2a485c83-4ad9-b318-9276-24a947cc93f8",
+    "name": "VCT x EDG Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "6b03d2ad-4c86-e541-ea28-82877cc12c7b",
+    "name": "VCT x EG Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "c84c61cb-4da0-1669-70b9-8297bd28db6f",
+    "name": "VCT x FNC Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "1fb7b866-4c0c-4128-0535-0a9b9fac3965",
+    "name": "VCT x FPX Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "5c1ce621-45a0-7ec9-8440-c39214d070a3",
+    "name": "VCT x FUR Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "3ef741a2-4822-96ae-371a-87b3908421a5",
+    "name": "VCT x FUT Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "f04917ec-4104-7127-dd82-00bea157662b",
+    "name": "VCT x G2 Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "854a1c7d-4674-d9d7-ac18-849aa4d5e708",
+    "name": "VCT x GEN Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "80bade28-4b3a-af0a-97ff-e3bccdeaed6f",
+    "name": "VCT x GE Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "17f0db96-4e2d-6bfd-da2f-aaa54a1d3ffc",
+    "name": "VCT x GX Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "71e4a922-4bfd-1c56-234c-e39675d362b6",
+    "name": "VCT x JDG Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "c6c66163-468e-b7dc-e1c3-878caaea54a4",
+    "name": "VCT x KC Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "bbefc94e-4864-bd6e-5cf5-b79506ee645f",
+    "name": "VCT x KOI Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "7b510be9-45a9-89f6-5440-fd8747345c61",
+    "name": "VCT x KRÜ Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "bd1f700a-443c-0cd9-4647-47bcda8bf42b",
+    "name": "VCT x LEV Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "0aa66a21-41d9-8c50-f2ef-3988b57bfd52",
+    "name": "VCT x LOUD Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "0c38772f-4aba-42ce-d14c-15905477fad8",
+    "name": "VCT x M8 Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "22c06960-430c-bc82-66e8-1b8c8b5f8640",
+    "name": "VCT x MIBR Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "7e0a5637-4cd4-cbea-cd3e-b4852b182424",
+    "name": "VCT x NAVI Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "ef59bd63-41f9-fff3-0d02-72bcbd730688",
+    "name": "VCT x NOVA Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "ccaeee25-4855-8ebd-3650-969c587984cb",
+    "name": "VCT x NRG Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "d3518639-4f2b-1eb7-f246-d7bbdeeeefb2",
+    "name": "VCT x PRX Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "920bee4d-4a1f-55f1-e879-c5925b6a2e06",
+    "name": "VCT x RRQ Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "f336402b-48e3-2edf-3c5c-c68c35daa20e",
+    "name": "VCT x SEN Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "eb08a6cc-4d1f-3bbc-2254-efb03acbdecf",
+    "name": "VCT x T1 Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "fd244905-46ad-9bb4-d921-3e8e096ab745",
+    "name": "VCT x TE Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "41d4f33c-47f2-0553-44d9-5cbd73e017d8",
+    "name": "VCT x TEC Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "11b7da6e-48b8-04e6-1cab-b0ae0f1d5ace",
+    "name": "VCT x TH Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "9d7fcd48-43c6-867e-ff71-7497b3cb7f43",
+    "name": "VCT x TL Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "53f1d218-40df-272a-b05a-c3aac215f5a7",
+    "name": "VCT x TLN Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "0624e073-4f0e-f0bf-0193-09a5b3513a7d",
+    "name": "VCT x TS Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "b7a74aa5-4716-a026-85ad-cc92837fc1ca",
+    "name": "VCT x TYL Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "4071c280-400b-23a6-a43e-7e8385162185",
+    "name": "VCT x VIT Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "2637724b-410f-55c7-4002-36ab136bae08",
+    "name": "VCT x WOL Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "d634b446-4ca6-59e0-2b62-4fa521c2d222",
+    "name": "VCT x ZETA Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "ae4916e1-48ac-4d6c-aba3-96844a518d8f",
+    "name": "VCT25 x 100T Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "be58f009-44d7-9cde-64e8-d78dd2e51676",
+    "name": "VCT25 x 2G Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "b9642eeb-4e68-44c8-e28a-09a104077e9d",
+    "name": "VCT25 x AG Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "d7f6f633-467a-4801-d3b8-c48c8b6086a6",
+    "name": "VCT25 x APK Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "93f85eb6-4d41-5e87-aacc-3d9b89d5b932",
+    "name": "VCT25 x BBL Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "8d5bf8cd-4329-0f21-a42e-64984e42813b",
+    "name": "VCT25 x BLG Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "aed8fad3-420f-1260-841f-61ab40703acb",
+    "name": "VCT25 x BOOM Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "8cdbd2bc-49ae-a8d8-189e-a290ab0cc429",
+    "name": "VCT25 x C9 Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "6226da7a-48a6-7346-1c21-f49240334fc8",
+    "name": "VCT25 x DFM Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "32c88800-46d7-fb98-eb81-c1a6b2dd9f1c",
+    "name": "VCT25 x DRG Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "2dc87174-4317-0be8-259e-5f8c6f96b718",
+    "name": "VCT25 x DRX Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "3b0d52f2-418b-9586-f7f1-0d8ae344c1ae",
+    "name": "VCT25 x EDG Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "4f11433f-4658-6985-382f-09b57f8031c7",
+    "name": "VCT25 x EG Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "e867e1f1-4606-18d4-b5f7-8498b6349697",
+    "name": "VCT25 x FNC Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "bd202550-4747-91f0-102b-69a86522ddbb",
+    "name": "VCT25 x FPX Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "e7418e15-423c-c506-94df-8d97b711f305",
+    "name": "VCT25 x FUR Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "d467b597-421e-38a3-a2c3-c5aaf729aa70",
+    "name": "VCT25 x FUT Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "a5e1a6be-4395-9e7b-53f7-0fabaaed11ae",
+    "name": "VCT25 x G2 Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "e448f3ee-4d09-12b7-0f76-ce87f59e45f8",
+    "name": "VCT25 x GEN Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "73bf535e-450d-de69-25fa-c7bf195c093a",
+    "name": "VCT25 x GE Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "7062a658-45bb-db62-fa20-5ca0e45152e7",
+    "name": "VCT25 x GX Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "6e57ef00-4bad-a02e-c338-eea5b001ceca",
+    "name": "VCT25 x JDG Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "f48a8efa-4955-14f6-4115-bbb2db87c1fb",
+    "name": "VCT25 x KC Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "706c3e04-4f49-cc59-e5fb-3b94b76f2f85",
+    "name": "VCT25 x KOI Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "42036377-4017-26ba-ccd6-8abe38b5c516",
+    "name": "VCT25 x KRÜ Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "8f4b89d1-45a8-a008-21e3-0cbe49f50e6b",
+    "name": "VCT25 x LEV Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "a04321f7-403d-50d6-0369-b8ae0cbbf6c3",
+    "name": "VCT25 x LOUD Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "8738c486-49d2-4572-a1ca-33910771f7e5",
+    "name": "VCT25 x M8 Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "4fa28287-4dcc-b31e-6954-0aaa2f111319",
+    "name": "VCT25 x MIBR Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "92099e05-4fcc-9ae9-e6fb-54815b68354f",
+    "name": "VCT25 x NAVI Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "6e982b69-43ee-d0af-bc09-4ba14bce4e64",
+    "name": "VCT25 x NOVA Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "02bc11ac-494d-495c-1d1f-649a5a93295c",
+    "name": "VCT25 x NRG Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "22a7a892-4958-6902-91bd-0bb8ac30e433",
+    "name": "VCT25 x NS Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "f6ef2237-4a98-ed3a-2933-d4937ac744d4",
+    "name": "VCT25 x PRX Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "b7feb988-472f-b391-f61a-9a8f8fb1bc7f",
+    "name": "VCT25 x RRQ Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "51562b29-4db2-d2ba-d4bc-6e85478838e5",
+    "name": "VCT25 x SEN Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "a46301a8-4832-55c4-0e24-54ac6de66c91",
+    "name": "VCT25 x T1 Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "3db8c91c-4507-c950-7763-568d239f87c8",
+    "name": "VCT25 x TE Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "d43460d9-4075-94c9-1792-b4b7638b19cd",
+    "name": "VCT25 x TEC Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "a2a4c4b8-4b2c-827e-a86f-96bfe0dcfac9",
+    "name": "VCT25 x TH Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "56d0e4d8-44ac-0e83-fd7f-69b981bce6c7",
+    "name": "VCT25 x TL Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "0158e31c-43b8-d485-cd7f-9e843bbf2522",
+    "name": "VCT25 x TLN Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "3621f3c5-447c-1202-2a66-4cae30c63a7b",
+    "name": "VCT25 x TS Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "c6176e0e-4cc7-e53c-e2b5-969d21858fdf",
+    "name": "VCT25 x TYL Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "f77b8402-4c93-3bd8-f6d3-2e9e5799f9fd",
+    "name": "VCT25 x VIT Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "dd072e82-48fa-1e61-a098-dea4353fc6b6",
+    "name": "VCT25 x WOL Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "6c426b7b-4366-12ae-623e-5fb6d0762d71",
+    "name": "VCT25 x XLG Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "8a21f2a6-4634-37de-8031-0ca8bf302d62",
+    "name": "VCT25 x ZETA Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "5c153c29-4af1-e37c-f914-30984bcc1a00",
+    "name": "VCT26 x 100T Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "e4d5454c-43d1-fdd4-3db0-cfb31cfb120c",
+    "name": "VCT26 x AG Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "855185cf-49ad-d48b-c67c-bcad08e63229",
+    "name": "VCT26 x BBL Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "3ab7d3f5-402d-b2cd-2289-df918f3cfc08",
+    "name": "VCT26 x BLG Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "607df022-4b11-d315-8e48-7ea00e9a7334",
+    "name": "VCT26 x C9 Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "9f2d4fb8-4739-16c1-d270-43b0cd0a1202",
+    "name": "VCT26 x DFM Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "34f12708-420c-fc77-7376-c1b7a4ba7bdd",
+    "name": "VCT26 x DRG Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "969e5b1f-45e5-9b24-75ba-ab9e8d24a7a9",
+    "name": "VCT26 x DRX Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "10a69185-42ae-ddd3-24cf-dba31bd7667f",
+    "name": "VCT26 x EDG Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "e8879b69-4b10-a67c-e7f6-5da69971f426",
+    "name": "VCT26 x EG Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "8a7fd35e-423b-a9c7-048b-50a7ad930125",
+    "name": "VCT26 x FNC Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "3cb07937-44d1-f14f-10e9-5fb5fab0eddc",
+    "name": "VCT26 x FPX Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "c0b2d534-43b2-3617-0c71-d8904cf3c2d7",
+    "name": "VCT26 x FS Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "7338b17b-48d1-ee60-56d0-a39b653893e9",
+    "name": "VCT26 x FUR Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "9065201c-4720-6af0-c26c-23861542b724",
+    "name": "VCT26 x FUT Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "6f732081-4f00-664f-87e8-d6a32d494bae",
+    "name": "VCT26 x G2 Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "ab529e85-4a66-3591-40b6-cab280236416",
+    "name": "VCT26 x GEN Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "5814474d-4d92-d1f5-04ce-2f8d23ae2466",
+    "name": "VCT26 x GE Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "0f3309ad-4edc-4c16-20c1-06ba255e49ce",
+    "name": "VCT26 x GX Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "f303a777-48c3-8b49-81a0-ad867d8f40c6",
+    "name": "VCT26 x JDG Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "71da48ed-43ed-c74b-6580-ec9435e72492",
+    "name": "VCT26 x KC Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "1b263b90-423f-eab6-bb0e-a491d296d002",
+    "name": "VCT26 x KRÜ Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "e2c5ccb5-4eba-cdc5-23e4-329f037023c9",
+    "name": "VCT26 x LEV Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "33926ae0-44b9-efbc-8e08-09822976f3a2",
+    "name": "VCT26 x LOUD Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "8d023ac3-442e-cad9-de85-3eb4965d074f",
+    "name": "VCT26 x M8 Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "2ddc6505-45ad-640c-69e1-608af936f7b3",
+    "name": "VCT26 x MIBR Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "99a20e1b-44b7-3793-c2f3-b3a9346f40e6",
+    "name": "VCT26 x NAVI Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "bdcbc076-4dd1-7685-dee3-4d990b536e08",
+    "name": "VCT26 x NOVA Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "e5af583a-42d4-19bf-d836-21be8ba58e4b",
+    "name": "VCT26 x NRG Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "3cdd7a3f-447d-a8d0-b4b1-1f8b9471af1f",
+    "name": "VCT26 x NS Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "ff74f606-48cc-e54a-b092-ce8131ef5763",
+    "name": "VCT26 x NV Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "331fde45-439d-2b68-193c-fe94a36f53f3",
+    "name": "VCT26 x PCF Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "cb2d0716-4059-03a7-6cdd-4aa160ef9f05",
+    "name": "VCT26 x PRX Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "9f887a2c-4275-385a-cee7-95ab01e76e5a",
+    "name": "VCT26 x RRQ Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "42be8fc9-4844-0068-4a0e-6fb4fab908d1",
+    "name": "VCT26 x SEN Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "31ad3e2e-4034-39bb-8836-67be75b8e7a0",
+    "name": "VCT26 x T1 Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "419654b4-4058-433a-b9b9-23af6a614779",
+    "name": "VCT26 x TE Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "b7922c34-4b43-a48e-e91a-389ff8ae79f0",
+    "name": "VCT26 x TEC Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "c775735d-4bd9-52c5-7f68-9898787b52a5",
+    "name": "VCT26 x TH Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "522776e7-44ea-9d97-832f-5a8dfe1b28f6",
+    "name": "VCT26 x TL Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "285dcd5e-49c5-da61-f4c2-72b7877ad85f",
+    "name": "VCT26 x TS Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "40ec4fc4-45df-8e57-21a2-da82217f52a8",
+    "name": "VCT26 x TYL Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "d2fbf519-43dd-a410-3c6f-aaa26dba9852",
+    "name": "VCT26 x VIT Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "896157f1-4bf9-53b8-6d4d-59aa7ad70e7c",
+    "name": "VCT26 x VL Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "e187724b-40fb-2eaa-bd03-16b3faa14d9e",
+    "name": "VCT26 x WOL Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "d014e645-4349-cbf5-5a14-938073bb8754",
+    "name": "VCT26 x XLG Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "fcd3527f-40bd-c834-d68b-fdb5adfce2d1",
+    "name": "VCT26 x ZETA Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "6e93f64b-41d5-2b86-85aa-54986aa85def",
+    "name": "Storm Maw Classic",
+    "weapon": "Classic"
+  },
+  {
+    "id": "b576b9f1-407d-310a-6009-6287fb6829bc",
+    "name": "Standard Bandit",
+    "weapon": "Bandit"
+  },
+  {
+    "id": "a2cb19e6-407c-f19b-ffae-e9be7fe25abd",
+    "name": "Crash Out Bandit",
+    "weapon": "Bandit"
+  },
+  {
+    "id": "f6cdb486-426f-d890-d78b-a88d0640ce61",
+    "name": "Gourmand Bandit",
+    "weapon": "Bandit"
+  },
+  {
+    "id": "2505a3cf-4604-d6ff-5785-d981df847fb7",
+    "name": "Soulburst Bandit",
+    "weapon": "Bandit"
+  },
+  {
+    "id": "8911ce5b-485d-3a9b-ffa1-199ca6c067c1",
+    "name": "SilkLeaf Bandit",
+    "weapon": "Bandit"
+  },
+  {
+    "id": "1c9e4c40-4cb7-cbc8-1368-8f9feaa08f65",
+    "name": "Random Favorite Skin",
+    "weapon": null
+  },
+  {
+    "id": "902a3bcb-4164-3315-fe03-2088fb897ce4",
+    "name": "Rogue Bandit",
+    "weapon": "Bandit"
+  },
+  {
+    "id": "f3333480-459f-cc15-da7a-34869a8fc9df",
+    "name": "Aeris Bandit",
+    "weapon": "Bandit"
+  },
+  {
+    "id": "ff766c80-4c4a-269d-2164-3ebb341de27a",
+    "name": "Reaver Bandit",
+    "weapon": "Bandit"
+  },
+  {
+    "id": "d0fbfdee-4961-cf51-24a4-4a853ee9fd0c",
+    "name": "Flutter Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "86564070-4e0e-fae7-1c2c-e28f044076d6",
+    "name": "Fiber Optic Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "da0f5e8a-4413-d3c7-7c14-9ca4af77a0dd",
+    "name": "Sky Reaper Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "53a99777-4d4b-8380-5eed-d1a43793aeb1",
+    "name": "Frequency Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "3714831b-4b90-bb6b-4185-7fb05ba9b9a2",
+    "name": "VALORANT GO! Vol. 1 Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "2e8d2911-4e9a-34fe-f5bd-ae80d2a4d380",
+    "name": "VALORANT GO! Vol. 3 Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "9ad4308f-4ffb-03a8-25c3-7a80b60579de",
+    "name": "Radiant Entertainment System Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "daed0e44-4ab6-22b4-a5a5-57a4957a056b",
+    "name": "Gaia's Vengeance Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "f32de4c8-472f-9b3e-cd8d-d2b3193c01a7",
+    "name": "Celestia Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "cd281dcd-4276-1def-11d9-74a4a72db204",
+    "name": "Endeavour Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "9db45d13-4cc3-4b6c-4801-459b79f8cda5",
+    "name": "Piedra del Sol Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "cc29eecb-4b93-2b73-2c04-e284565d9b78",
+    "name": "Bumble Brigade Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "dddfda59-462c-5eec-f4de-e997abb3338c",
+    "name": "Aperture Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "1efccc95-4855-8e99-49be-fe88d674fc98",
+    "name": "Tacti-Treat Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "2204f110-428c-3e94-a188-0fa1b093c2be",
+    "name": "Comet Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "c9c0b280-44ce-f539-02f0-b39884790182",
+    "name": "Phaseguard Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "df65f29b-465c-827a-7c34-15be149b883e",
+    "name": "Starlit Odyssey Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "4582dd2b-4528-845d-dec8-16911ca7ba50",
+    "name": "Singularity Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "e223e993-45f5-013b-4259-11b263184752",
+    "name": "Topotek Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "d2ed8432-44a2-fb53-cd5f-089251862942",
+    "name": "Spitfire Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "25a656e2-4994-020b-32e9-e99b8171429f",
+    "name": "Heartstopper Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "67d3e2f7-4b73-7598-0027-63bd9e2e5fcc",
+    "name": ".EXE Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "a1d3a9e2-4f61-b1f7-3a01-cf867264d1cb",
+    "name": "Hush Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "2fcdb6c8-4183-0079-13fe-2cb51da0b87c",
+    "name": "Soulstrife Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "a754999a-4acf-0fca-a155-3684f176b5fe",
+    "name": "Digihex Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "65ce6a98-4867-b695-279f-819c44ec6f95",
+    "name": "Infantry Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "44be88b3-4a0e-64c8-950d-66a969e71f7e",
+    "name": "Goldwing Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "1c1ea3cf-4146-de0f-7e6a-828f68f0bb63",
+    "name": "XERØFANG Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "377ea8ac-46bf-52da-3173-109c2950dc9d",
+    "name": "Outpost Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "8163db1a-4e3c-8f11-92fd-bc9e26253593",
+    "name": "Prism Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "d8314b6c-45fc-fbda-a797-569a24c11bb9",
+    "name": "Serenity Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "8a513c24-4c4d-ac15-6066-a1b2ff577041",
+    "name": "Ruination Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "5a448204-40e8-9015-830f-cabad46edf05",
+    "name": "Smite Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "cb98b0d6-4e26-973c-c10d-a38637d04b65",
+    "name": "Luxe Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "33824a13-453b-0636-4ec4-e19708aa934e",
+    "name": "Magepunk Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "b1f873fd-44c9-a012-4bc3-9b9b524d5a94",
+    "name": "Minima Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "48486283-48d8-cb8b-01c9-9b9409ab1d4d",
+    "name": "Valiant Hero Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "431799d6-4e79-bdf2-573d-4cbc8112982e",
+    "name": "Kuronami Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "e31f9098-40dd-699d-338f-84bba0828fea",
+    "name": "Belaflaire Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "e552accf-4c90-0221-02c2-889b6fe10d8f",
+    "name": "Libretto Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "8dfec665-4836-d498-2896-08a16c092133",
+    "name": "Artisan Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "f20bdd80-4cbf-67a8-106e-72bbf94336aa",
+    "name": "Jigsaw Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "4ab1d112-4ae0-4841-11f8-b198cb847862",
+    "name": "Luna Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "b4903002-4687-1953-847a-e0b09a2b2726",
+    "name": "Random Favorite Skin",
+    "weapon": null
+  },
+  {
+    "id": "4725c2c4-45b7-d9ab-ff4f-a79c3b2dd9ec",
+    "name": "Eclipse Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "38844557-4c0f-7a43-f758-f5a9e09f40c3",
+    "name": "Rupture Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "1a9afd32-46fc-43c1-ab92-0a95e912805b",
+    "name": "Lycan's Bane Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "cd3f54e0-45f4-116b-c86c-cc8ca728c369",
+    "name": "Byteshift Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "c7261be6-47d2-ef86-82f4-6a844e45d33c",
+    "name": "Reaver Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "a9890917-41ea-eb55-47e7-ee990a87fa4e",
+    "name": "Sovereign Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "efbd92f3-4abc-b077-76fd-dc805b3d72a0",
+    "name": "Tethered Realms Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "bb28991f-4ca9-ca54-962d-31b68c838625",
+    "name": "Recon Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "153b2b33-4e6c-fb98-42dd-5a9819649dc7",
+    "name": "Cavalier Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "82511942-465b-5600-76d7-778159d01bf4",
+    "name": "Mystbloom Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "1c63b43b-43c4-04e4-01c9-7aa1bffa5ac1",
+    "name": "Standard Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "2a8a2ff3-44f0-6e8f-8e37-7282113177cf",
+    "name": "Evori Dreamwings Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "35dfbae0-4be6-3f47-2a1d-4aa0c5599e1b",
+    "name": "Freehand Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "68c49000-4248-88a5-e0ae-6185d3631be2",
+    "name": "CYRAX Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "fbba3f7e-402a-92f3-b3d6-a69d653e5204",
+    "name": "Gridcrash Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "bc46c754-42a6-f3e1-ff07-5396d514b9f1",
+    "name": "Fortune's Hand Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "3f59b69f-4391-b0ee-705e-329175931502",
+    "name": "NO LIMITS Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "69addb00-4eb5-eebb-c4c5-2296549cba6f",
+    "name": "Depths Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "b84df096-4096-e9c4-0869-8e83e7fc5476",
+    "name": "Ego Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "0a6edcf0-4a64-0ed5-1b10-0e96c2eb4cb4",
+    "name": "Vendetta Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "845a6945-414c-c916-6041-e4a3ef1108cd",
+    "name": "Winterwunderland Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "e24330ef-4315-512c-4588-95a601995888",
+    "name": "Soul Silencer Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "a9d11586-488a-c93e-c3cc-1ca5d9b6faa9",
+    "name": "Ayakashi Ghost",
+    "weapon": "Ghost"
+  },
+  {
+    "id": "34f735c0-4fcd-b4fd-fb34-fbab97b42a41",
+    "name": "Wayfarer Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "c2aee89c-4f9c-47a9-8dc0-f9a53535d508",
+    "name": "Mythmaker Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "7aa2c00d-4eb3-0891-8ea0-f2b29cbe7254",
+    "name": "Enforcer Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "304e1a7a-411d-2d27-dad6-c09702b5ea2f",
+    "name": "Immortalized Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "142be691-42a0-c0a1-f6ed-57b3158def7e",
+    "name": "RGX 11z Pro Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "1946d021-4c01-2cc7-d29e-4eb9e90279cd",
+    "name": "Altitude Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "8b06da10-49fe-8133-b846-8b8e18bf1312",
+    "name": "Space Piercer Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "317574ca-4a9d-9e5a-f9c4-a79aa378f75b",
+    "name": "Araxys Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "840f12d8-467b-1a5e-f79c-b893b72b2fbc",
+    "name": "Aristocrat Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "db5db925-45cc-9a63-3351-6ba36ef1bb9c",
+    "name": "Composite Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "bc23caf4-4b9c-89cf-48fd-6f9c6f743809",
+    "name": "Heartbreaker Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "63260230-44aa-2a9f-71db-329e2a3afab5",
+    "name": "Overlay Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "55ef0ffa-44fe-03ac-dcf0-1982df0857aa",
+    "name": "Nebula Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "42e25a14-4ef6-19ef-d013-6db2afcb44c3",
+    "name": "Doombringer Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "e1fdd246-4a6c-af26-f0a0-65a48f2586da",
+    "name": "ChronoVoid Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "79a78823-41dd-a2e8-7586-12bc8154d2d9",
+    "name": "Abyssal Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "81bd181f-4124-9e58-ffd4-09964dc0d2cc",
+    "name": "Prelude to Chaos Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "9eba83e5-4084-300e-d001-fd8152dc6522",
+    "name": "Imperium Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "bfd9e773-4376-1f6a-98f2-dc93f0c0607c",
+    "name": "Singularity Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "a452fcd9-4fe6-dc8c-6459-b2ad13ef89ff",
+    "name": "ORA by OneTap Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "2674c385-4397-0383-04df-988d8d6fd2c8",
+    "name": "Surge Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "50401da0-4915-a924-c3f3-2bb6949d482c",
+    "name": "Moon Scout Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "f9e29f78-4adc-9e49-8fe6-a7b1d6d22743",
+    "name": "Last Stop Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "1e8fc4bc-4940-88fc-639e-b0b74bfdae18",
+    "name": "Nanobreak Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "3850ea5a-4e51-d913-7a44-48b2589e06b9",
+    "name": ".SYS Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "b73f455a-4d77-44e7-fd90-1db9db82a8f6",
+    "name": "Neo Frontier Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "c7049e63-4c65-dd0e-20ec-7c956217e894",
+    "name": "Bubblegum Deathwish Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "2109efb1-432f-8fe8-897b-31a9d135ac3c",
+    "name": "EX.O Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "4f1fde01-4130-0ae7-1320-6fb2f2fb6ab9",
+    "name": "Protektor Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "3194b53a-40a9-a419-a8a6-43b1a53cd0e9",
+    "name": "Prism II Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "570e61cd-4057-85ef-2da0-e4bbba48d706",
+    "name": "Retrowave Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "95eb82e2-4859-5564-7b3b-ddbf2fb8088d",
+    "name": "K/TAC Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "db41461d-4cee-b397-09ff-f2b0d8f012f4",
+    "name": "Aemondir Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "f8dfd0ad-496b-2b31-fff8-dea9de2f04c0",
+    "name": "Monstrocity Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "6b57a839-4f3e-8df9-4b05-0db2c9fa1fae",
+    "name": "Iridian Thorn Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "6460edbf-458d-bf61-7519-519305ba5da2",
+    "name": "Magepunk Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "cb89c7bb-445e-dfec-ad4a-b0ba37271329",
+    "name": "Signature Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "46ffe3ea-4fb5-7773-6242-f5b57bf53ef8",
+    "name": "Minima Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "208bdc02-451d-60e5-196c-47ae67f150fc",
+    "name": "Overdrive Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "721ab58c-4ba2-b7ae-c571-0993d9799fc5",
+    "name": "Silvanus Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "97a3cdc4-4f3a-ed26-02d6-6dbf6c1380d0",
+    "name": "Crimsonbeast Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "0eec6f2b-4d64-9c16-7846-b8865030f61c",
+    "name": "Kuronami Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "83778c03-45a3-67a2-3c89-6b8598327d58",
+    "name": "Ion Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "54337477-4aec-4a68-4673-7c8731639d30",
+    "name": "POLYfox Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "91d95358-4a3e-3abc-a251-98826225f18d",
+    "name": "POLYfrog Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "84589da8-4e2b-11bf-ca52-b88e6b7e1dbd",
+    "name": "Protocol 781-A Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "d26ce959-4ed2-7105-8f33-dea48e26de4a",
+    "name": "Random Favorite Skin",
+    "weapon": null
+  },
+  {
+    "id": "a5057a74-4a6a-561c-6974-d19a2b939599",
+    "name": "Lightwave Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "19b997bb-461a-fa85-250d-a8b0b8908fea",
+    "name": "Sakura Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "26ff0e3e-469a-cbdd-f79f-a3b89556cdef",
+    "name": "Peacekeeper Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "0568cd14-42ca-db85-3ac2-c485079bbbf1",
+    "name": "Schema Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "9b225d0f-4375-3c8f-2a40-eebf1f36a01c",
+    "name": "Keys to Elysium Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "e295f9f7-4090-00dc-3f59-8d844567a318",
+    "name": "Hi-DR0 Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "5ff60bfc-4a7f-b9bf-245d-f2b4e31de6a4",
+    "name": "Holo Meridian Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "2ba3ded8-47d5-58e3-1307-39800214636d",
+    "name": "Sentinels of Light Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "a40a6ce2-462c-c864-5d30-7b9408b98d3d",
+    "name": "Reaver Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "c0a39e8b-4d52-bfbc-21f2-a88b0f8c4856",
+    "name": "Mystbloom Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "1ef6ba68-4dbe-30c7-6bc8-93a6c6f13f04",
+    "name": "Standard Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "2e054476-4b48-ca0a-9c10-a38eab54eccc",
+    "name": "Cloudweaver Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "6ca0d072-4fb0-fa69-0c76-6cbc2d9eeab3",
+    "name": "Stormborne Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "43e01e91-44d0-a819-852b-35b71673c648",
+    "name": "Sandswept Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "e8fd8fc3-40ce-3ed1-235a-1c8d9654874f",
+    "name": "Convex Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "9b572509-45a2-c1ee-e650-55b71afc8bce",
+    "name": "Solarex Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "8504529f-4555-64a6-6f18-28a4438336e1",
+    "name": "Blackspyre Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "42eaceac-46b2-eec0-2cca-10937761fe9e",
+    "name": "Varnish Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "9913da36-48b4-f0f5-db4e-43847a21e476",
+    "name": "Wasteland Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "121bc438-4748-b2ee-2c58-768c8c26838b",
+    "name": "Game Over Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "84d840c5-4479-4395-d823-e7acbe634c5e",
+    "name": "Arcane Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "bb0d20c6-415d-cf24-e738-0f99db6f9195",
+    "name": "Death Wish Sheriff",
+    "weapon": "Sheriff"
+  },
+  {
+    "id": "70af2278-4234-dc5c-afcc-b38402ec5729",
+    "name": "Hard Bargain Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "b454bb93-4dd5-5a7c-6720-38afd82bfd78",
+    "name": "Sidekick Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "4e98f273-472c-3376-7195-46a1f81402cc",
+    "name": "Araxys Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "646e713f-4999-6c56-094c-dd9114bdb35a",
+    "name": "Neptune Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "4c583a37-42d7-23db-5e38-1eafe96f2b9d",
+    "name": "Gaia's Vengeance Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "0581fb92-4b2d-0ede-6bfc-8d93fde11f74",
+    "name": "Karabasan Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "acedb6db-407b-5d62-9c27-07bbb2313fe3",
+    "name": "Rune Stone Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "1c9fc347-4e1f-e9b1-eb1c-ad9a90f0f376",
+    "name": "Doom Wing Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "c9572061-4ee1-ff7d-b60c-ebac198d3706",
+    "name": "Prelude to Chaos Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "9a37b09b-4768-b368-52ef-58ac62564637",
+    "name": "Doodle Buds Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "ee0acade-47fc-c212-7c16-41979c1ba1f3",
+    "name": "Dragon Gate Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "da41a901-493c-80f7-955b-dfa0c69629fd",
+    "name": "Chromedek Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "3a921c7b-4e8f-8543-bee8-01ba6da86874",
+    "name": "Hivemind Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "15588213-4d09-344b-c7e1-28af37374c82",
+    "name": "Velocity Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "1064fbd1-416c-bf00-0e30-a282a359847f",
+    "name": "Ruin Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "74d8ac90-453d-96ef-6cc6-20a65c58eb5c",
+    "name": "Jellybeam Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "de88d366-4d2b-655f-345c-719b97ddf9d9",
+    "name": "Neo Frontier Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "4542410b-46ba-36f2-898d-c2815b504002",
+    "name": "Primordium Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "7a3a9e66-4ac1-df74-193b-1984303f4f71",
+    "name": "Monarch Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "5ebe29d1-46d9-03d6-825c-719e003d15ad",
+    "name": "Guardrail Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "e7ec70cb-4e16-255e-caa4-fea9a78c8084",
+    "name": "Intertwine Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "039207fd-4911-9d6b-b7ba-e3ade36ef77e",
+    "name": "Prism II Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "1505ed97-4323-1a7b-7688-93a1e35e844f",
+    "name": "Aquatica Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "310b80d8-4e1b-b4f0-b713-9dad458ce734",
+    "name": "Wunderkind Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "da994f02-4faa-8118-2ecd-5dac66c728e5",
+    "name": "Perch Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "fcb18a37-4a0d-ecd3-ee2c-c38496ed5ae2",
+    "name": "Genesis Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "b36dad11-4105-6c08-0486-17ba96d0f2a4",
+    "name": "Oni Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "9428e52d-4611-c8ff-1b63-7b8e386fe8cb",
+    "name": "Snakebite Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "df0e23fe-4529-a9d5-c4c6-eaae086bda65",
+    "name": "Hue Shift Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "075e4cf0-469b-25dc-8d6f-2995fbb093de",
+    "name": "Random Favorite Skin",
+    "weapon": null
+  },
+  {
+    "id": "73ade1d7-47d1-680b-defe-268df2ad073b",
+    "name": "Transition Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "160d661d-4152-6914-8069-c393914759cb",
+    "name": "Sentinels of Light Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "48ad078a-4dae-2b85-a945-f4b6d1efecbb",
+    "name": "Standard Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "a39bd1bb-4b17-4d57-c505-7eb15caffa4d",
+    "name": "Aerosol Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "ae2ea89b-495e-2902-f67f-3490c1a03754",
+    "name": "Tilde Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "9f487473-4037-5b0a-8cc6-aab4ead88880",
+    "name": "Heartseeker Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "b48639f6-4dbd-f0a3-8fd2-2a9d531fa6a0",
+    "name": "Cloudweaver Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "7b51fc8a-4a5c-712e-c663-e6a7eeb61d91",
+    "name": "Tigris Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "e917273f-42d1-3a8d-7c9e-54afd6e5e68d",
+    "name": "Wayfinder Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "30635237-4877-4ea4-5ac4-239474d3a662",
+    "name": "Wasteland Shorty",
+    "weapon": "Shorty"
+  },
+  {
+    "id": "2e1936ed-4582-628f-da9c-25a7f47323cc",
+    "name": "RGX 11z Pro Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "bc6c0465-4a8c-ec92-dc9a-d68e7e4a1a78",
+    "name": "Frequency Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "a7f9dccd-43ad-0574-5d5f-1ab4950014e1",
+    "name": "Intergrade Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "4a1e0934-46ae-fa2a-a009-05ade5d43402",
+    "name": "VALORANT GO! Vol. 2 Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "bfe984c4-45f9-b3db-4d81-23b5a41848ed",
+    "name": "Divergence Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "6db556e4-4255-6c2c-6a80-8a9dfac96aa9",
+    "name": "Araxys Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "507330d3-4311-e010-183b-aba00a0705f1",
+    "name": "Radiant Entertainment System Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "8da0b49f-49cf-fc95-c4cb-2a90000ecc48",
+    "name": "MK.VII Liberty Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "bd34ba70-4098-c17b-2cb8-6ba311f4fbcb",
+    "name": "Celestia Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "bdf1484c-44a7-2ef1-3d21-45b66ff8a89f",
+    "name": "Endeavour Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "3e3ad402-4a71-54ca-e764-f89a2c2ff217",
+    "name": "Heartbreaker Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "973305d5-4ab1-b4d0-f5fa-ed88dea94f78",
+    "name": "Tacti-Treat Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "17831113-4ff0-a6c9-0b20-6f9c077d74a2",
+    "name": "Origin Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "90ba4949-4a6a-cc54-efb2-3dbdbe1bf69c",
+    "name": "Striker Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "33aaa643-4bc4-4c5f-2762-228c7fc03949",
+    "name": "Red Alert Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "a491b943-43e3-4e98-64a6-fc87fca43605",
+    "name": "Glitchpop Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "b450a73d-431e-56b7-5b7f-67bddd38ee66",
+    "name": "Prelude to Chaos Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "d722313d-43cb-b38d-7841-75880a3ed2cb",
+    "name": "Elderflame Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "76f1d9e7-4675-6913-ca31-03a70815ee0e",
+    "name": "Imperium Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "94e98f1f-4a49-ef5f-b995-cf84750194b6",
+    "name": "ORA by OneTap Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "44064b11-4e74-19c9-80a4-9f80875adaf5",
+    "name": "Nitro Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "c692e38e-4f38-0141-d0c9-aa99fab9362a",
+    "name": "Forsaken Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "38e99cac-42b7-70b3-6ea6-4aa42e8c478e",
+    "name": "Gourmand Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "279a54f8-4344-cd72-1d5b-15aa0e86a630",
+    "name": "Team Ace Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "93ccaf1f-4e44-0bc7-9ec4-ebab43f73d10",
+    "name": "Spitfire Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "c5993299-40fc-208a-55e8-388f73328053",
+    "name": "Bubblegum Deathwish Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "341ef273-43fb-7911-71e8-50adada4cee1",
+    "name": "Infantry Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "b035b1a2-48aa-6e3d-af67-35b48dd21f49",
+    "name": "Intertwine Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "5ced2c69-442e-d1ad-83fe-8fb8b2ac0c0f",
+    "name": "Prism Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "da025249-4217-6524-49a1-878c95095bd6",
+    "name": "Retrowave Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "9ffd45c4-4fa4-dca0-f46f-2d99ad1eae20",
+    "name": "K/TAC Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "403cce8c-4484-a796-a6f6-a0a07d9832e0",
+    "name": "Kohaku & Matsuba Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "201918d4-4c69-a91e-6a4f-6b86b084df1e",
+    "name": "Blush Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "64380fcd-43d2-5d91-dacb-f2becbfafb46",
+    "name": "Daydreams Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "cb07878f-484f-50dd-ab6b-5380640b13c5",
+    "name": "Iridian Thorn Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "0bd5da19-491f-dd4a-27e2-c9959b10a87a",
+    "name": "Luxe Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "7e831918-4580-5e2a-089a-84ad58fe1aae",
+    "name": "Magepunk Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "b2164926-4b85-852a-4bd7-d9bc27a642da",
+    "name": "Spline Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "a0a446f1-443d-3dc8-49c7-f2a70849f092",
+    "name": "Minima Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "1e9b6856-4aaa-4dba-1da7-3791690113d8",
+    "name": "Valiant Hero Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "83b49f36-4085-8179-6896-1a99f2d2d1d8",
+    "name": "Silvanus Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "de8d2ff4-49e0-c0a9-d29b-2da688220a01",
+    "name": "Genesis Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "a709ad22-45d5-0b51-5de2-85ad5c5ca405",
+    "name": "Kuronami Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "7c7d116b-4e3d-c63e-23bb-69a5bd9198b9",
+    "name": "Libretto Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "bbf8ffb9-49c0-75c0-cc7d-8f8f03a4bd36",
+    "name": "Ion Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "b2783916-483a-9112-89c6-64b8d927b78c",
+    "name": "Cryostasis Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "acdd29aa-44b5-0d78-dc54-8f92ed555559",
+    "name": "Random Favorite Skin",
+    "weapon": null
+  },
+  {
+    "id": "c21e2f34-4b8c-4350-33c8-a8b626ecaadc",
+    "name": "Gravitational Uranium Neuroblaster Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "2460c852-4d1b-a9e3-ccda-43a8e30cb739",
+    "name": "Rogue Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "2943a7ea-4c81-6924-1ba0-5b9f080d3c13",
+    "name": "Hi-DR0 Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "c60a5448-4eb5-9fd7-991b-029a325a3281",
+    "name": "Holo Meridian Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "74932624-425b-7c32-8479-b39b2a1b7923",
+    "name": "Torque Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "b05c4c98-4108-e442-add7-da99a95a37b6",
+    "name": "Sentinels of Light Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "aecab890-43b7-d719-06bc-9295e3d116dc",
+    "name": "Reaver Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "e7ba6cec-495f-e08e-f8eb-6e90228bdf9e",
+    "name": "Tethered Realms Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "d47f9576-426f-4da3-761d-39967489550c",
+    "name": "Cavalier Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "d9a34604-42e9-3a01-a875-9293e08183a9",
+    "name": "Mystbloom Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "d1f2920f-469a-3431-ad96-96afbd0017f2",
+    "name": "Standard Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "5f260f34-4021-ab2c-8080-6287c4f9974b",
+    "name": "Aerosol Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "44175b4f-4503-4ce4-25fc-32a995d872c1",
+    "name": "Tilde Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "c319c230-4d98-8d99-05bc-7d8c02146570",
+    "name": "Stormborne Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "b53a990d-45c2-6212-a98f-b0aa5d6e6c23",
+    "name": "Tigris Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "ccb54094-4db8-2c9f-656b-f1bff329f469",
+    "name": "Convex Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "253df22c-4336-86c8-fc84-0596842feea2",
+    "name": "Haloform Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "614758af-4dab-57e0-f6f1-29af113093ef",
+    "name": "SplashX Operator",
+    "weapon": "Operator"
+  },
+  {
+    "id": "6558fd5d-4dc7-90f7-beea-ba9303551c3b",
+    "name": "Immortalized Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "da29ce1e-43bb-c043-9cbc-34850517dc23",
+    "name": "RGX 11z Pro Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "1bcb5825-4afc-3169-6f23-d38d65333fa7",
+    "name": "Space Piercer Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "d8498f5f-4687-2eee-755e-00ae72f4ca94",
+    "name": "Intergrade Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "2c32d9e3-42a1-7387-35ef-0c8eefacee1c",
+    "name": "VALORANT GO! Vol. 1 Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "851c1abc-4a84-7bab-7e44-16a5aadf5afc",
+    "name": "Araxys Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "1082032a-4f20-12db-93ea-549332f91ddf",
+    "name": "Neptune Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "abd5415f-4851-244f-4b8b-31af8e268822",
+    "name": "Gaia's Vengeance Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "192f8546-487b-f47b-4779-c19972672fe8",
+    "name": "MK.VII Liberty Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "04ccfe05-497c-2d52-2bd0-64a68955175e",
+    "name": "Spectrum Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "612cb889-41eb-a56b-9d77-0b994577603a",
+    "name": "Tacti-Treat Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "16dba725-4de2-8412-c07f-af95c65db9a2",
+    "name": "Starlit Odyssey Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "6141a40d-48cf-8466-6d46-558c0ff145ea",
+    "name": "Nebula Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "bcf0c2a9-408b-b230-df2a-369dcc5e1916",
+    "name": "Bulletbox Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "97bc040f-44bb-cbb3-c9f4-3aa16d1c0655",
+    "name": "Abyssal Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "ef889a32-4951-ae40-44fe-40a4da210060",
+    "name": "Nanomight Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "00e6b758-448e-af3b-7dee-879aa4a51324",
+    "name": "Nitro Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "2d5e6025-4166-730e-1024-abb766d19568",
+    "name": "Songsteel Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "0a847414-49e2-b163-b6f6-9a8feee15215",
+    "name": "Moon Scout Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "3ab36c94-4c91-d722-6f10-11bbbe382159",
+    "name": "Spitfire Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "875ce5da-44cf-e6fd-6c63-b9873ab950d4",
+    "name": "Last Stop Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "5bf741d9-4e0f-12c3-17d1-129befd702cd",
+    "name": "Dolmir's Revenge Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "453a734b-4f14-9183-2be8-97b01f603368",
+    "name": "Ruin Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "7422b876-443e-b975-faab-0ebf73dbc075",
+    "name": "Soulstrife Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "acd76d4d-4d05-2597-d63b-12851b2b61ee",
+    "name": "Infantry Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "06854a71-4eac-cb4c-cdbe-bbbdda492e9c",
+    "name": "Hydrodip Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "2a049f35-4bcd-af25-21fd-ec942e2d5007",
+    "name": "Prime Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "f9734048-446f-bb6f-0f58-f5aa6fded7c7",
+    "name": "Bubble Pop Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "2700e91f-4201-5b8e-a9c7-b5aea72942e1",
+    "name": "Guardrail Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "d0a78e3a-4b36-03b5-f3f3-04826a640fed",
+    "name": "Intertwine Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "46ffb61a-4127-3308-ba92-94bc970923f4",
+    "name": "Yoonseul Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "8966067d-4023-c88a-db56-2691f163d335",
+    "name": "Ruination Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "f6dd8d93-4dbb-f7b2-d82a-41bfc8f46e31",
+    "name": "Blush Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "41e6c204-4ba2-31dc-70b4-4d99b4ac9668",
+    "name": "Solarstride Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "80dbfa46-4a1f-c7a4-2e88-1499308c7b9a",
+    "name": "Magepunk Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "da4317a0-4913-5e87-5b45-53be8e576481",
+    "name": "Tacti-Series Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "26e675c5-46cc-65fb-7be2-db8a64dbde48",
+    "name": "Signature Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "f097983d-4c5a-c7ed-c325-039c99bb824e",
+    "name": "Galleria Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "b7931d66-4ca3-d67c-c130-6692c55ae26c",
+    "name": "Moondash Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "cf3ccc67-4570-9a21-1902-4ea07a0070af",
+    "name": "Kuronami Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "850fea42-419f-f284-84ae-40ae1eabbb5b",
+    "name": "Oni Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "1a38d03c-4114-6908-37dd-38a85d91cb2d",
+    "name": "9 Lives Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "93309ef5-4f43-411a-5759-c794eb584c7c",
+    "name": "Aero Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "96679876-4d41-683c-2e5c-2ea25ddd8fdf",
+    "name": "POLYfox Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "23a16911-4cb1-2794-2d4c-3f99f1e2516b",
+    "name": "Jigsaw Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "874025d8-4293-a38a-96ac-3d94954fb4b7",
+    "name": "Random Favorite Skin",
+    "weapon": null
+  },
+  {
+    "id": "ee649b57-4811-332f-c484-aea45aada288",
+    "name": "Panoramic Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "4047a667-4d1d-bb68-df9e-a09bfa68d934",
+    "name": "Blackthorn Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "d75e69ae-4cde-2f43-8c3a-ac844e6ef1c9",
+    "name": "Silhouette Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "74b9f0c4-4747-ab13-e3c4-3485b645beef",
+    "name": "Shellspire Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "56f74904-457e-b08b-0cbd-d6bd7c39d267",
+    "name": "Aeris Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "db348da1-49f2-0bad-b70a-e4ade9d31655",
+    "name": "Reaver Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "7122d78b-4e60-eb4d-5f65-738d7c1ce9ae",
+    "name": "Sovereign Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "77187a8f-4020-da44-a775-7a91ab814cdf",
+    "name": "Tethered Realms Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "539e07ec-49b2-5f22-0d05-91b809229d64",
+    "name": "Recon Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "b0913a89-40a1-aafa-cc89-93bb6f9a4870",
+    "name": "Paceline Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "cce860fd-4f64-7422-5c95-c7ad2cad0f15",
+    "name": "Infinity Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "5d23dda7-405a-e903-4681-1a825146f028",
+    "name": "Reverie Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "3bf1e8e0-47e8-f27a-6054-929575f41a54",
+    "name": "Standard Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "3dc71392-42c1-a224-7ac5-f380f7615a59",
+    "name": "Refractrix Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "288407cb-4812-d285-f569-4880176b64d2",
+    "name": "Heartseeker Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "e5410554-4501-16c8-0382-13b91db12286",
+    "name": "CYRAX Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "14b17d97-4320-9b77-68a8-1ca7cfc0adae",
+    "name": "Fortune's Hand Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "66e8e5e6-43ce-c8d5-470b-a5b0d69ed47d",
+    "name": "Stormborne Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "6779d117-4a4b-d534-1f35-10a52f570694",
+    "name": "Wonderstallion Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "0a81818d-406e-1d8c-ce4d-9ba89dfdf1ab",
+    "name": "Ego Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "84568b05-4790-3c55-c6df-36a3a3431ef4",
+    "name": "Haloform Guardian",
+    "weapon": "Guardian"
+  },
+  {
+    "id": "fdeb2877-4030-e396-f0cb-998868362c12",
+    "name": "RGX 11z Pro Outlaw",
+    "weapon": "Outlaw"
+  },
+  {
+    "id": "6d73609b-4256-7bf7-46aa-9887c6918992",
+    "name": "Araxys Outlaw",
+    "weapon": "Outlaw"
+  },
+  {
+    "id": "68b8bf1e-48ad-0f98-e99c-9381f6c53083",
+    "name": "Bolt Outlaw",
+    "weapon": "Outlaw"
+  },
+  {
+    "id": "e5bb1bb2-46ea-412a-b9df-08ade950be46",
+    "name": "ATLAS // CMD Outlaw",
+    "weapon": "Outlaw"
+  },
+  {
+    "id": "0a9993ce-40fc-7de3-c396-e591064dc6d8",
+    "name": "Aperture Outlaw",
+    "weapon": "Outlaw"
+  },
+  {
+    "id": "75b361a9-4adf-c3e8-6764-12be8933468a",
+    "name": "Overlay Outlaw",
+    "weapon": "Outlaw"
+  },
+  {
+    "id": "4d808fd5-4d3d-2721-407d-338b89349a2e",
+    "name": "Phaseguard Outlaw",
+    "weapon": "Outlaw"
+  },
+  {
+    "id": "30e38547-4d4b-f0bd-6416-deab45d74493",
+    "name": "Gourmand Outlaw",
+    "weapon": "Outlaw"
+  },
+  {
+    "id": "4a874e74-420d-fa8c-f899-4e80788ba63b",
+    "name": "Moon Scout Outlaw",
+    "weapon": "Outlaw"
+  },
+  {
+    "id": "ca2dd4ea-4e12-e676-84bc-0b977a23ac24",
+    "name": "EX.O Outlaw",
+    "weapon": "Outlaw"
+  },
+  {
+    "id": "b3cdf3a4-4547-f73a-f8aa-f390c1d3f42c",
+    "name": "Prism//Reloaded Outlaw",
+    "weapon": "Outlaw"
+  },
+  {
+    "id": "2a86630c-4bb0-a9e3-69aa-0d96c788797f",
+    "name": "Aquatica Outlaw",
+    "weapon": "Outlaw"
+  },
+  {
+    "id": "20c9c715-44dc-e58f-5fdf-4593b24cf6fb",
+    "name": "Soulburst Outlaw",
+    "weapon": "Outlaw"
+  },
+  {
+    "id": "4fdeaf87-406c-303e-a620-b1a06ebe05de",
+    "name": "Smite Outlaw",
+    "weapon": "Outlaw"
+  },
+  {
+    "id": "bd9c41dd-42b1-8555-78c1-81a36016bc03",
+    "name": "Random Favorite Skin",
+    "weapon": null
+  },
+  {
+    "id": "ae6ca820-4795-5054-76f8-a186b636b231",
+    "name": "Keys to Elysium Outlaw",
+    "weapon": "Outlaw"
+  },
+  {
+    "id": "64ad2f5d-488e-434b-cf20-a6a05e44f471",
+    "name": "Byteshift Outlaw",
+    "weapon": "Outlaw"
+  },
+  {
+    "id": "1a097db1-4778-7049-b62e-6fa071ad7193",
+    "name": "Mystbloom Outlaw",
+    "weapon": "Outlaw"
+  },
+  {
+    "id": "740b9572-44b1-57bf-767e-6aa01811f94d",
+    "name": "Standard Outlaw",
+    "weapon": "Outlaw"
+  },
+  {
+    "id": "db1044ad-4da2-d981-92ce-8685a1ead1a4",
+    "name": "Heartseeker Outlaw",
+    "weapon": "Outlaw"
+  },
+  {
+    "id": "9decabd1-4d9f-156d-4bea-4f973e57119f",
+    "name": "Cloudweaver Outlaw",
+    "weapon": "Outlaw"
+  },
+  {
+    "id": "9fbeb60b-4c22-d736-b335-43ad53d0bc69",
+    "name": "Ego Outlaw",
+    "weapon": "Outlaw"
+  },
+  {
+    "id": "a69950ce-460e-fa01-3b91-0ca6f9eac329",
+    "name": "Holomoku Outlaw",
+    "weapon": "Outlaw"
+  },
+  {
+    "id": "04b1d687-4e86-1011-56a4-a9816cf3f5e0",
+    "name": "Wasteland Outlaw",
+    "weapon": "Outlaw"
+  },
+  {
+    "id": "774dee9a-4809-0e4d-4153-a883e908d4b2",
+    "name": "Task Force 809 Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "95be56c3-4b3e-cc81-5fd6-b1af30448074",
+    "name": "Fiber Optic Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "0c549876-44f3-9a07-bd53-31ab196c4c41",
+    "name": "VALORANT GO! Vol. 3 Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "fc802ceb-4a39-39ac-adf5-02a812be2f8e",
+    "name": "Gaia's Vengeance Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "8a5b92e4-4147-0d85-5e2c-d6a179645bec",
+    "name": "Composite Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "db3bf2d9-449e-cd8a-950e-018ca893d404",
+    "name": "Rune Stone Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "685af060-4934-e262-543d-5d96ed42257d",
+    "name": "Nocturnum Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "bd050462-40fc-c2fe-0efd-5984df1b0e50",
+    "name": "Doom Wing Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "6250b40a-43a4-55d8-79d4-f6838d58151d",
+    "name": "Doodle Buds Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "51da27fe-4a3f-016a-d18d-b68a47545f6f",
+    "name": "Songsteel Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "fefdedbe-447d-b86a-b7dd-dab6d605cf6a",
+    "name": "Chromedek Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "f037ea38-4be9-0f3d-003c-6f958a71e04b",
+    "name": "Venturi Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "9168111e-4aae-5055-d97e-78bf29a470b1",
+    "name": "Interhelm Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "301233cb-442b-402b-bf7d-199d0f54cad8",
+    "name": "Last Stop Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "93cd0836-4da1-e8c9-b1db-0ea9d0eed269",
+    "name": "Superset Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "027a5d7f-4bfc-7c41-a012-24b8c6720fda",
+    "name": "Ruin Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "d70d33ff-4a88-bf66-f256-bcb05fa9bd60",
+    "name": "Neo Frontier Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "028c7b80-46ea-8f1d-3f7a-4c9c13a79977",
+    "name": "Monarch Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "dd58ab43-4ff3-659e-8f30-b8bd26619d4d",
+    "name": "Avalanche Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "fe297733-4ada-d817-dd7e-17b9cd1d62d5",
+    "name": "Black.Market Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "6f48f7ff-40a5-cc9e-1320-bdaa388f5cbf",
+    "name": "Couture Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "27ab5ed6-4614-d5c2-c53f-5391febe7099",
+    "name": "Magepunk Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "542a3364-41c6-d030-d499-84bbecd72928",
+    "name": "Tacti-Series Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "a5f13cb7-4ca7-3011-0419-72abe2584caa",
+    "name": "Perch Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "d4bcbc96-4be3-aa57-9a6a-11aecf60ac61",
+    "name": "Signature Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "805722c4-4ac7-6179-7ce7-658b5f26d6ed",
+    "name": "Coalition: Cobra Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "62b71917-4a70-5c39-f29b-3198dcbacaf0",
+    "name": "Minima Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "ad6309b5-4788-d401-33d0-4dbaeeadaf87",
+    "name": "Galleria Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "af77e583-41fc-b0c2-3728-058d02502039",
+    "name": "Crimsonbeast Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "dbc02d43-4a71-573c-1beb-c1b7e0274b74",
+    "name": "Insidious Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "43353883-446c-c2bf-5d44-298eb948ee80",
+    "name": "Moondash Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "fb9ff2b0-4d71-d53c-364e-fe98fb5a2411",
+    "name": "Kuronami Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "e64be1b4-4935-5215-874b-939d3b0ea57e",
+    "name": "Switchback Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "a8f3a670-4b8e-9fc8-30bd-f4b395d1ff5f",
+    "name": "SilkLeaf Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "6eea7984-4ca4-d547-4d50-b4a608072feb",
+    "name": "POLYfrog Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "ad83a57d-414c-f714-a97f-99bad1128b2b",
+    "name": "Divine Swine Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "4986a893-48a5-4c23-11f2-70bb9e9d284d",
+    "name": "Artisan Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "48f218a6-42cf-4f63-0cda-39a5aef5d870",
+    "name": "Luna Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "b273ade7-4971-c274-eb92-219ef6def086",
+    "name": "Premiere Collision Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "457fe5d2-40c8-4490-6834-53a74e709f4a",
+    "name": "Random Favorite Skin",
+    "weapon": null
+  },
+  {
+    "id": "7c47be9b-48a5-752e-7229-f7b1668239dd",
+    "name": "Blackthorn Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "a44fd9f1-4233-7c41-fa47-ffbf8b77041d",
+    "name": "Rupture Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "9ff57b38-4222-1c1e-b775-e682b7e6379b",
+    "name": "Aeris Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "5211efa8-4efd-09bb-6cee-72b86a8a5972",
+    "name": "Sovereign Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "0dfc1800-4ddc-85fd-8382-32a2824135fa",
+    "name": "Reverie Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "fd44b2d5-49ee-77ab-fa56-588f3ac0c268",
+    "name": "Standard Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "9cba5b54-4d68-e13c-932e-4aac83e21e64",
+    "name": "Freehand Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "abd8ed49-46a6-1a40-1082-c3b05950228c",
+    "name": "Spellbound Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "dc0fd062-4658-519c-0c21-18a0943f123b",
+    "name": "Sandswept Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "19f06522-40c8-8dc6-a0cd-92808b24751f",
+    "name": "Wasteland Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "c31856f4-4ae1-cfb8-14cc-10a92b81e7c3",
+    "name": "Winterwunderland Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "1c560472-4c65-616f-07e6-f98ad73c37c6",
+    "name": "Convergence Marshal",
+    "weapon": "Marshal"
+  },
+  {
+    "id": "e78fb82c-4800-e102-b7a6-33946fa2f199",
+    "name": "Task Force 809 Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "91881981-4ce7-e081-a897-1bbb51996ac4",
+    "name": "Fiber Optic Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "4f0c9544-469c-0c62-df2e-95b15d6f2333",
+    "name": "RGX 11z Pro Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "e6d41dab-4d18-255e-8a4d-8cb79f3b3579",
+    "name": "Sky Reaper Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "646b7e79-4164-598c-56d1-c991d74ce695",
+    "name": "Intergrade Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "89b78398-4c56-6371-cad7-8eb78ee3f550",
+    "name": "VALORANT GO! Vol. 1 Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "5d5f4ea6-4463-531c-2165-aebb4057646b",
+    "name": "VALORANT GO! Vol. 3 Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "55153919-4598-cb0f-4759-7ea546c6d121",
+    "name": "Neptune Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "936470c5-4d1d-3cba-ef05-4a92b95b75d9",
+    "name": "Celestia Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "14373997-4f2f-ebe2-3547-e893d8750459",
+    "name": "Bolt Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "57872eeb-4b26-201d-307b-b48ca14bc39c",
+    "name": "ATLAS // CMD Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "dbe2c9ea-41c4-522c-9204-dab09bac84d0",
+    "name": "Striker Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "8cbd7b75-4759-08ee-fa0b-739bed1d1325",
+    "name": "Comet Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "780a93e6-46aa-50c7-5e73-b885c5f6a141",
+    "name": "Radiant Crisis 001 Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "1e473101-488a-e8ab-41cd-c6ad9d53443a",
+    "name": "Starlit Odyssey Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "1bc10f1f-4140-cd8c-4cc6-64b1983b04f2",
+    "name": "Crash Out Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "e655b7f1-499f-fcc9-fb44-20af54f3c701",
+    "name": "Emberclad Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "3aebc432-4946-b9dc-ae50-59a6afa68c0d",
+    "name": "Abyssal Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "fbb2acd5-4aef-1f50-da10-3084c323011c",
+    "name": "Prelude to Chaos Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "0eab3e5c-4de4-e221-34fb-2ab435c89eb6",
+    "name": "Singularity Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "5137dacb-4df6-b513-765b-96b9ecfc435c",
+    "name": "Sarmad Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "d405272b-4388-578c-e33b-04842496b8c1",
+    "name": "Hivemind Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "35469802-4ae2-f86a-dfaa-d484cc29481e",
+    "name": "Venturi Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "a786ea8f-42f2-ae5f-376f-2bb66df1a62f",
+    "name": "Forsaken Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "6196c91c-4f0a-2aa2-342a-6fbac6d4ec3c",
+    "name": "Velocity Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "05eebe8b-47d5-a6c5-9dbf-0da47f93842e",
+    "name": "Jellybeam Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "95ca4d2b-4166-8e0e-8d79-d79957f58b81",
+    "name": "Soulstrife Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "b160a897-4b92-0034-58ff-2b9b8c2d7340",
+    "name": "Primordium Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "8d4d74c3-4771-52a3-b3eb-a38cc0222643",
+    "name": "Infantry Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "2f26ca83-4a92-e655-1da3-48ab0b941c2e",
+    "name": "EX.O Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "eb9ec7c9-4c20-e702-81c7-63bbe165aa12",
+    "name": "Horizon Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "20807bd8-4259-35e5-e54e-c1b214f58cc8",
+    "name": "Prime Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "a0938d46-4593-19b4-1aa5-f3b32ecb9963",
+    "name": "Avalanche Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "b9836020-433a-ace4-eb35-3fbd67688c53",
+    "name": "Prism Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "4643050b-417c-0d84-3626-27b709c49c67",
+    "name": "Serenity Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "97a798d7-4372-e173-f58c-b5a8e0a8a1bb",
+    "name": "Yoonseul Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "f9c2e823-4eeb-d872-8a4c-d5a0bf8a3b6c",
+    "name": "Ruination Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "30b19f29-419b-1adc-3561-40be2b1f7841",
+    "name": "Kingdom Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "68470542-47f9-37e9-875f-1bb24f7a0cfa",
+    "name": "Soulburst Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "8badce8c-4239-34a5-a23d-6595689df562",
+    "name": "Blush Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "bdb396b1-49eb-851c-b107-1ea2027cab26",
+    "name": "Monstrocity Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "3eb4d837-4ae9-b52a-b41d-2789f9974f15",
+    "name": "Luxe Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "a3f8e1b3-4654-f3ea-15ba-9eb9fd6a0b0d",
+    "name": "Magepunk Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "418ef9fe-4675-6620-3755-c19aca3ff131",
+    "name": "Spline Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "2d28e21f-4986-650d-70bd-a2927a0e337b",
+    "name": "Minima Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "f31e4763-458a-961c-f958-ad8ea4973021",
+    "name": "Montage Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "f743fe2f-4cab-71d9-81e2-5b8f2f52923f",
+    "name": "Kuronami Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "09fe8c8d-4575-054a-dfab-a6a98ebc2dd3",
+    "name": "Belaflaire Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "eacea54e-4e53-2715-cd4a-5d860aa68449",
+    "name": "Ion Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "ed78f73b-4055-2bd2-7cd6-a1ae7e9025c5",
+    "name": "Hue Shift Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "fbaedf2b-4a8b-1949-ddaa-27ab3f6d8ae4",
+    "name": "Aero Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "9042279e-4491-1a01-a346-928f89f01ea7",
+    "name": "POLYfrog Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "eaa73ab9-4688-0c40-09ad-85b535a50723",
+    "name": "Protocol 781-A Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "f45824e7-4573-d473-0e70-959b76fc4dab",
+    "name": "Luna Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "c79318a6-4ffd-a99f-f452-77947640f688",
+    "name": "Random Favorite Skin",
+    "weapon": null
+  },
+  {
+    "id": "4a8e8ff6-44f2-0ebf-6fa8-a5af76b628ee",
+    "name": "Gravitational Uranium Neuroblaster Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "57bd81d4-460c-596d-b96f-04bc7f9166d6",
+    "name": "Rupture Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "91918349-4475-f56b-dc5a-e8bd3e630660",
+    "name": "Shellspire Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "cde34dc7-42e4-3f15-94b6-85bf9f47d245",
+    "name": "Torque Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "ff7784c0-493b-0f0f-9a7b-f1975a449154",
+    "name": "Helix Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "7c232164-4b8c-7a8f-7ae5-42987cbfb14f",
+    "name": "Sentinels of Light Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "1cb1ab52-4c7d-0775-77f4-eaac99968261",
+    "name": "Reaver Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "26b1c794-4370-f354-ff4d-3a8b95edff79",
+    "name": "Recon Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "53ab2a6a-46c5-32b9-e045-6781e677d7ff",
+    "name": "Infinity Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "f01d1307-4299-42f5-2c5e-7dab7e69ab19",
+    "name": "Standard Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "fb3f3ffd-46bc-41e3-25c9-2688f2d017ed",
+    "name": "Evori Dreamwings Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "70f4a686-42e0-5800-b09b-8cbce7fc2f8d",
+    "name": "Freehand Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "910991b7-40de-183d-12ea-d99e67cfa910",
+    "name": "Tigris Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "ddbead4d-40b1-afe4-e44f-eca9e2022458",
+    "name": "NO LIMITS Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "e22a30b2-413b-e194-3cd6-47b20b825feb",
+    "name": "Sandswept Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "c8a5ba23-4f0d-c7de-8e2f-c184e2fc27ba",
+    "name": "Convex Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "a01b2a0a-4ab8-d5f9-aad8-a89d8bd0b7fb",
+    "name": "Wonderstallion Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "b4e5bb69-4e12-113f-c43b-efa5b13cb96d",
+    "name": "BlastX Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "a79fdeee-49d6-1f96-432d-c6929d931bd2",
+    "name": "Solarex Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "2052a76e-411a-ebfc-e516-fd80dba0ddf9",
+    "name": "Blackspyre Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "f7da43d8-450b-a03f-ceb7-c4b20f738392",
+    "name": "Wasteland Spectre",
+    "weapon": "Spectre"
+  },
+  {
+    "id": "66a6a6a1-44c7-beac-0b67-54aaa8243367",
+    "name": "Immortalized Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "282c15e6-4372-2f18-9143-2d9cdd942c4c",
+    "name": "RGX 11z Pro Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "42da0f19-4017-5cb8-08a4-368315561fdf",
+    "name": "Aristocrat Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "b6c49f5e-409e-4e7c-223d-739ecc52a705",
+    "name": "Celestia Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "cebd9a89-4ef1-48fa-6c4e-6bbc1cdd1be8",
+    "name": "Composite Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "6da4c1ab-4c47-3ad9-39dd-f69aca9f9c8c",
+    "name": "Overlay Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "6e507ef4-4e78-e3ed-11c1-0397b94f4cfc",
+    "name": "Tactiplay Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "d83fecfa-41ff-9dce-0241-0980c6a087d7",
+    "name": "Verdant Cafe Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "5e589d74-4b10-2a15-58b8-e5b8293f3b77",
+    "name": "Crash Out Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "0cf70376-4150-39aa-5657-8890617bc0d1",
+    "name": "Red Alert Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "5a4a0ea0-4ac6-d130-c917-45a7bb89ae42",
+    "name": "Prelude to Chaos Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "eee0304d-45f1-6c08-1a53-4e850f594f51",
+    "name": "Nanomight Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "9444ba80-4ae7-985d-40a2-2788f96dd544",
+    "name": "Doodle Buds Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "0a128cb6-4bbb-f618-85cb-82bbd17bcbb1",
+    "name": "Surge Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "3fc40900-4d9d-c22f-c0f6-e0b53827ef83",
+    "name": "Shimmer Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "bf7e260f-407e-9e16-e47e-ba921c10f046",
+    "name": ".SYS Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "a5df3dee-4303-5f1a-a5f9-60bd46e2390b",
+    "name": "Bubblegum Deathwish Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "338e3ee3-4927-733f-32b6-bcac795d23ac",
+    "name": "Prism II Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "5740a0f6-4f9a-c38b-db63-1a935e4bad92",
+    "name": "Aquatica Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "598bb272-4bfd-ae82-0242-6490cc6f721e",
+    "name": "Couture Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "cfbcbbcb-4d51-94cb-2efb-9fbb0d655b45",
+    "name": "Signature Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "7fa8b218-4943-e745-f62f-a9b666bdc10b",
+    "name": "Overdrive Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "847fe9da-45cc-21d4-0138-7aa4d8b31d8e",
+    "name": "Silvanus Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "92f1dd4b-47f5-2088-9370-f89857962bc2",
+    "name": "Moondash Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "2b7f65f7-4e85-becc-5f3d-39961f937b79",
+    "name": "Libretto Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "cfca617a-4240-377f-ed3f-778fa63729ed",
+    "name": "Switchback Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "8068c624-4e56-4360-abe4-eab38b43820d",
+    "name": "SilkLeaf Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "9d7ed392-4c4c-b1c4-7232-3cbb07b2e133",
+    "name": "Sensation Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "d25dfdc4-4fce-e121-88ef-66b5dadeee09",
+    "name": "Random Favorite Skin",
+    "weapon": null
+  },
+  {
+    "id": "1cd6f578-483b-37a1-a7ef-9a907fac416a",
+    "name": "Sakura Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "46c8b165-4ba5-d42c-79e9-4fba8951ca48",
+    "name": "Schema Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "3d6eb464-4193-a8c6-5aff-d593520163b3",
+    "name": "Lycan's Bane Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "7858961c-47ae-f109-2f70-f0b78ea99aaf",
+    "name": "Transition Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "8fb27bb1-4080-581d-bcd3-53ae01861654",
+    "name": "Sovereign Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "51e2b876-4339-521d-8d68-9aaec119bc1f",
+    "name": "Cavalier Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "21f25ca2-46e0-da6c-295c-f09d294b2d8d",
+    "name": "Paceline Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "940fb417-4a9c-3004-41f5-3e8f1f4178b2",
+    "name": "Standard Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "389f8242-4dd0-6ff5-357d-6888f440647f",
+    "name": "Refractrix Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "fb899598-4b23-fe13-021f-ccb674d6b3f6",
+    "name": "Heartseeker Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "b0d9088d-4a99-3dda-5b43-319e5fa9e66a",
+    "name": "CYRAX Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "3760761d-4be6-bc25-d9a8-a0b9137651fd",
+    "name": "Gridcrash Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "86d41080-4b1f-046e-6736-148539e76df7",
+    "name": "Cloudweaver Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "e1297b8f-4374-3131-27a9-38bb0eda1c0d",
+    "name": "Depths Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "8fe5ebbc-4ce7-a248-9766-288441706e0a",
+    "name": "Ego Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "26fbcf26-4135-b8e3-277e-8a9c27e3d34d",
+    "name": "Varnish Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "01f1f7d1-4290-b345-cb42-c3a2b4d811ee",
+    "name": "Storm Maw Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "e1888a19-4ad6-e406-0002-0bb1ad411168",
+    "name": "Convergence Stinger",
+    "weapon": "Stinger"
+  },
+  {
+    "id": "58442f45-4783-42a2-f4cb-789a27555889",
+    "name": "Task Force 809 Knife",
+    "weapon": null
+  },
+  {
+    "id": "9fb366b6-46df-a722-0cf2-9c9b85936f17",
+    "name": "RGX 11z Pro Blade",
+    "weapon": null
+  },
+  {
+    "id": "03de6b1a-4497-72e8-ae0c-2984b2e7e2b9",
+    "name": "RGX 11z Pro Firefly",
+    "weapon": null
+  },
+  {
+    "id": "91130713-44e6-8436-d34c-e3badaf241b7",
+    "name": "RGX 11z Pro Karambit",
+    "weapon": null
+  },
+  {
+    "id": "1bc43715-4679-3f9d-ffc1-d69b373407cc",
+    "name": "Altitude Knuckle Knife",
+    "weapon": null
+  },
+  {
+    "id": "362a42f4-4404-db85-267c-55bbe1b08f52",
+    "name": "Sky Reaper Sword",
+    "weapon": null
+  },
+  {
+    "id": "c5482640-4652-6948-29c6-769e8198db27",
+    "name": "Xenohunter Knife",
+    "weapon": null
+  },
+  {
+    "id": "050aa35d-41b7-241c-d0b5-23b53ab0769a",
+    "name": "Intergrade Blade",
+    "weapon": null
+  },
+  {
+    "id": "9103fdf7-4361-5ac5-37ae-7cb51f13f45d",
+    "name": "VALORANT GO! Vol. 1 Knife",
+    "weapon": null
+  },
+  {
+    "id": "d034911c-45a6-1ce4-e6f5-4cbe57e9d4f1",
+    "name": "Yoru's Stylish Butterfly Comb",
+    "weapon": null
+  },
+  {
+    "id": "320e6e52-4f31-1857-b759-82903334d97e",
+    "name": "VALORANT GO! Vol. 3 Dagger",
+    "weapon": null
+  },
+  {
+    "id": "a516af9d-4f3d-ac79-2204-329f732aa378",
+    "name": "Divergence Staff",
+    "weapon": null
+  },
+  {
+    "id": "a486efac-4415-1bfa-68d1-19bca9968101",
+    "name": "Araxys Bio Harvester",
+    "weapon": null
+  },
+  {
+    "id": "3cc0aac5-45ff-e648-80f2-b9932ddf8bed",
+    "name": "Araxys Bio-Atomizers",
+    "weapon": null
+  },
+  {
+    "id": "c3f1c9d6-441b-7def-1bf2-2c82719a4de8",
+    "name": "Neptune Anchor",
+    "weapon": null
+  },
+  {
+    "id": "4670c2c9-4445-1604-7000-fd99093b3504",
+    "name": "Neptune Hook",
+    "weapon": null
+  },
+  {
+    "id": "f0ba8044-4964-ba1f-7f0f-e68dc2118d42",
+    "name": "Power Fist",
+    "weapon": null
+  },
+  {
+    "id": "f91a1dd8-4f5f-bce4-f01d-4da95322c485",
+    "name": "Gaia's Wrath",
+    "weapon": null
+  },
+  {
+    "id": "4fc1bb49-4847-7262-8cfe-fcaf0f62f0d1",
+    "name": "Gaia's Fury",
+    "weapon": null
+  },
+  {
+    "id": "c4cb8c3b-4cb8-0260-609b-9a922a817a8f",
+    "name": "MK.VII Liberty Combat Knife",
+    "weapon": null
+  },
+  {
+    "id": "400bb847-4f4f-a39e-cd52-589f00b2204f",
+    "name": "Waveform",
+    "weapon": null
+  },
+  {
+    "id": "8330a4c0-4e98-1cb7-9695-6b998b77138d",
+    "name": "Obsidiana",
+    "weapon": null
+  },
+  {
+    "id": "093e3c69-4e14-6f75-1ee4-fc92efb91f9a",
+    "name": "Composite Knife",
+    "weapon": null
+  },
+  {
+    "id": "ff4bc096-4e6c-b67a-296a-5e814e4c0274",
+    "name": "Bolt Knife",
+    "weapon": null
+  },
+  {
+    "id": "f219f169-4652-4dad-a8ef-548416ae24c7",
+    "name": "ATLAS // CMD Baton",
+    "weapon": null
+  },
+  {
+    "id": "ee46c949-4934-cc69-d516-baa3034bfd17",
+    "name": "Aperture Stiletto",
+    "weapon": null
+  },
+  {
+    "id": "051564ec-45c0-60ba-3f17-95a06d69d632",
+    "name": "Overlay Dagger",
+    "weapon": null
+  },
+  {
+    "id": "1ea64c8d-43c4-fce8-7354-01bdd6c0ee17",
+    "name": "Champions 2021 Karambit",
+    "weapon": null
+  },
+  {
+    "id": "6946cd0e-4e4a-ec4f-9238-dfb71715722b",
+    "name": "Champions 2022 Butterfly Knife",
+    "weapon": null
+  },
+  {
+    "id": "27f27500-491c-32d4-1db6-1f85e479c103",
+    "name": "Champions 2023 Kunai",
+    "weapon": null
+  },
+  {
+    "id": "30300aea-4d8a-320d-5cb0-0e8badc8d3df",
+    "name": "Champions 2024 Blade",
+    "weapon": null
+  },
+  {
+    "id": "ac687fc4-40c5-4c41-6a7c-5eb59adabd60",
+    "name": "Origin Crescent Blade",
+    "weapon": null
+  },
+  {
+    "id": "31309f0b-49cd-295c-490d-96821a21c72f",
+    "name": "Striker Knife",
+    "weapon": null
+  },
+  {
+    "id": "3562e143-49eb-08be-2d0a-98a1f06fb7bd",
+    "name": "Comet Sword",
+    "weapon": null
+  },
+  {
+    "id": "71020826-483d-34f8-8da7-928f87942c10",
+    "name": "Radiant Crisis 001 Baseball Bat",
+    "weapon": null
+  },
+  {
+    "id": "246c06ba-42bf-4b8f-8680-2ba903e45129",
+    "name": "Phaseguard Splitter",
+    "weapon": null
+  },
+  {
+    "id": "a4c41553-4ba5-efee-5685-7a9f0cdf7878",
+    "name": "Nebula Knife",
+    "weapon": null
+  },
+  {
+    "id": "b20bf3b2-4d71-0a6f-a3b4-a8b699656529",
+    "name": "Nocturnum Scythe",
+    "weapon": null
+  },
+  {
+    "id": "25f7a66f-41a3-13da-53d9-ff94be3ace42",
+    "name": "Verdant Cafe Chef's Knife",
+    "weapon": null
+  },
+  {
+    "id": "c91e4850-4d32-3b12-f411-3e9f644ea616",
+    "name": "Hack",
+    "weapon": null
+  },
+  {
+    "id": "a9dc6008-4efd-6908-f937-719303898d51",
+    "name": "Doombringer Battleaxe",
+    "weapon": null
+  },
+  {
+    "id": "ddc025b2-475f-889a-2800-80b4215582bc",
+    "name": "Glitchpop Dagger",
+    "weapon": null
+  },
+  {
+    "id": "f0c42e14-4a92-132d-dfd4-cbbef103340c",
+    "name": "Glitchpop Axe",
+    "weapon": null
+  },
+  {
+    "id": "1b8de6d7-4f37-7170-acd7-e78829f7959a",
+    "name": "Terminus A Quo",
+    "weapon": null
+  },
+  {
+    "id": "4b66c44e-4b97-aa19-5c9c-fe837abaa95a",
+    "name": "Emberclad Hammer",
+    "weapon": null
+  },
+  {
+    "id": "cd6ce089-43fa-c4dc-3f8f-0391cb604b5d",
+    "name": "Caeruleus",
+    "weapon": null
+  },
+  {
+    "id": "6e0496c1-4c98-7abe-16c4-7ca3653e5cd8",
+    "name": "Blade of Chaos",
+    "weapon": null
+  },
+  {
+    "id": "bc19e1d3-40cb-04dd-1939-fb9edb8fd55f",
+    "name": "Flail of Chaos",
+    "weapon": null
+  },
+  {
+    "id": "f1d98ecd-4d68-30af-8908-edafabcf18ab",
+    "name": "Nanomight Knuckles",
+    "weapon": null
+  },
+  {
+    "id": "94b40026-4efb-39ea-69d7-fca60be39c56",
+    "name": "Elderflame Dagger",
+    "weapon": null
+  },
+  {
+    "id": "d7eaba36-4f20-9685-7c5a-dabe6d31d81c",
+    "name": "Blades of Imperium",
+    "weapon": null
+  },
+  {
+    "id": "151ee26c-4e82-e7ca-dad1-099e7fb34774",
+    "name": "Singularity Knife",
+    "weapon": null
+  },
+  {
+    "id": "a114e83d-4662-6a6f-4717-bfb82fd9b8e0",
+    "name": "Singularity Butterfly Knife",
+    "weapon": null
+  },
+  {
+    "id": "6fb14e4e-41df-de2d-98bc-fcb68d27db48",
+    "name": "ORA by OneTap Knife",
+    "weapon": null
+  },
+  {
+    "id": "6417e12d-4f03-13d4-8704-20bf3a1bcb5b",
+    "name": "Blade of Serket",
+    "weapon": null
+  },
+  {
+    "id": "45129867-4977-e2a5-bead-cb828101b623",
+    "name": "Songsteel",
+    "weapon": null
+  },
+  {
+    "id": "1f81e40e-460a-75fd-fb38-5f90b6fbb596",
+    "name": "Chromedek Gauntlet",
+    "weapon": null
+  },
+  {
+    "id": "9a98f7dd-426c-603e-0569-e9b317c25ee4",
+    "name": "VCT LOCK//IN Misericórdia",
+    "weapon": null
+  },
+  {
+    "id": "24cf2882-48c7-f287-155a-a4b6b083baa4",
+    "name": "Hivemind Sword",
+    "weapon": null
+  },
+  {
+    "id": "2640e9a6-415f-4c3e-cac0-16a24edb41c0",
+    "name": "Venturi Knife",
+    "weapon": null
+  },
+  {
+    "id": "ed792f00-43a7-cc88-b64b-b78c9de399a1",
+    "name": "Forsaken Ritual Blade",
+    "weapon": null
+  },
+  {
+    "id": "ccde2f25-4525-ef52-e1f0-bd88184bd4a4",
+    "name": "Velocity Karambit",
+    "weapon": null
+  },
+  {
+    "id": "13e1d87e-4ff2-d03c-9b31-168e5637858a",
+    "name": "Heart Splitter",
+    "weapon": null
+  },
+  {
+    "id": "7f83b70c-4cce-018c-906a-e8a1f827a62c",
+    "name": "Interhelm Sword",
+    "weapon": null
+  },
+  {
+    "id": "d74e3401-4996-7334-55b6-80a504375b7a",
+    "name": "Dolmir's Judgement",
+    "weapon": null
+  },
+  {
+    "id": "9c350ebe-458b-e6ed-ab77-2fb00cf249c1",
+    "name": "Ruin Dagger",
+    "weapon": null
+  },
+  {
+    "id": "c8b926df-4554-1b07-5a43-a9850bafca96",
+    "name": ".SYS Melee",
+    "weapon": null
+  },
+  {
+    "id": "6b689d71-4603-6140-f4a2-36a297ff3fdb",
+    "name": "Jellybeam Sugarslice",
+    "weapon": null
+  },
+  {
+    "id": "cdcfab50-425d-6410-7a54-6aa913b7ce48",
+    "name": "Neo Frontier Axe",
+    "weapon": null
+  },
+  {
+    "id": "38d47ee7-414d-8cee-5bbd-aca16656cda9",
+    "name": "Neo Frontier Lasso",
+    "weapon": null
+  },
+  {
+    "id": "dfe96f5a-4be0-c3f4-8e31-7f962bca2ade",
+    "name": "Soulstrife Scythe",
+    "weapon": null
+  },
+  {
+    "id": "83093e4f-4d62-07f7-b5f2-f7bcc1000ff7",
+    "name": "Bubblegum Deathwish Chainsaw",
+    "weapon": null
+  },
+  {
+    "id": "3e633a9a-482a-30fb-90da-059ff6cd400b",
+    "name": "Blades of Primordia",
+    "weapon": null
+  },
+  {
+    "id": "d33725cd-4171-238c-e0b4-8f912bdbcf03",
+    "name": "Hieroscape Blades",
+    "weapon": null
+  },
+  {
+    "id": "835a8c05-4e36-1b80-3ad4-c283697ba147",
+    "name": "EX.O Edge",
+    "weapon": null
+  },
+  {
+    "id": "e100dff1-4cf5-54ec-aa65-6fadbc22973b",
+    "name": "Prime Axe",
+    "weapon": null
+  },
+  {
+    "id": "9237e734-4a2a-38ae-7438-6cbee901877d",
+    "name": "Prime//2.0 Karambit",
+    "weapon": null
+  },
+  {
+    "id": "dc6cb084-4fb2-89cf-2113-4facb7767e9f",
+    "name": "XERØFANG Knife",
+    "weapon": null
+  },
+  {
+    "id": "2887c565-4c82-842d-b1ca-5682ddb88ffd",
+    "name": "Bubble Pop Light Stick",
+    "weapon": null
+  },
+  {
+    "id": "908be835-43bc-b728-35a4-0fa91f612cc0",
+    "name": "Outpost Melee",
+    "weapon": null
+  },
+  {
+    "id": "4ef258bb-49bf-74c5-3405-16a041cb7306",
+    "name": "Guardrail Hammer",
+    "weapon": null
+  },
+  {
+    "id": "9b6d0e3d-43eb-e9d5-4069-2194e02d6e6e",
+    "name": "Black.Market Butterfly Knife",
+    "weapon": null
+  },
+  {
+    "id": "82fbfa4c-4bac-a6da-c5ed-00898e83637f",
+    "name": "Bound",
+    "weapon": null
+  },
+  {
+    "id": "6fa830c2-4924-87b2-1510-2fa4fbdca1db",
+    "name": "Prism Knife",
+    "weapon": null
+  },
+  {
+    "id": "0c07c7f3-4532-bc57-d474-26b3b39a38e6",
+    "name": "Prism III Axe",
+    "weapon": null
+  },
+  {
+    "id": "b1e9530d-4618-4f2e-1b75-f1a90c91b19e",
+    "name": "Broken Blade of the Ruined King",
+    "weapon": null
+  },
+  {
+    "id": "f82aa022-4a6c-fa40-105d-92af6510ae1b",
+    "name": "Kingdom Knife",
+    "weapon": null
+  },
+  {
+    "id": "83e8641b-41d0-821d-5eeb-5999e9294a0c",
+    "name": "K/TAC Blade",
+    "weapon": null
+  },
+  {
+    "id": "2e4300f9-49b3-6bbe-af7c-94a6f56ff12e",
+    "name": "Equilibrium",
+    "weapon": null
+  },
+  {
+    "id": "fcf7417a-4b58-b09d-c557-6185acaf7425",
+    "name": "Blade of Aemondir",
+    "weapon": null
+  },
+  {
+    "id": "46163791-47b9-2ef0-d255-aaa5146051bb",
+    "name": "Smite Knife",
+    "weapon": null
+  },
+  {
+    "id": "6bf7fc78-4f07-9a1e-1851-57bb824bc249",
+    "name": "Smite Hammer",
+    "weapon": null
+  },
+  {
+    "id": "846e2477-46bf-a583-0d35-8db82054e53a",
+    "name": "Solarstride Flamethrower",
+    "weapon": null
+  },
+  {
+    "id": "80735f79-4eeb-76d4-f390-88898e819d76",
+    "name": "Daydreams Crowbar",
+    "weapon": null
+  },
+  {
+    "id": "8e760310-4d95-354b-a910-049eaa4d2fc6",
+    "name": "Catrina",
+    "weapon": null
+  },
+  {
+    "id": "16da5cca-49bc-2516-8ee6-c98d93e2d911",
+    "name": "Iridian Thorn Blade",
+    "weapon": null
+  },
+  {
+    "id": "7d45aaad-4ac9-77b1-e7ca-3991be5721dd",
+    "name": "Celestial Fan",
+    "weapon": null
+  },
+  {
+    "id": "4af88517-4949-9caa-9dda-1980f07202a4",
+    "name": "Luxe Knife",
+    "weapon": null
+  },
+  {
+    "id": "d5701391-46e3-7509-2711-3d8e128938cb",
+    "name": "Arcane Gauntlets",
+    "weapon": null
+  },
+  {
+    "id": "c18e781e-40a0-80e6-256a-54ae7355e7eb",
+    "name": "Magepunk Electroblade",
+    "weapon": null
+  },
+  {
+    "id": "59f627f1-42f3-670d-5323-3499c2913289",
+    "name": "Magepunk Shock Gauntlet",
+    "weapon": null
+  },
+  {
+    "id": "6029ac35-4eca-8428-26d5-0896013e4c63",
+    "name": "Magepunk Sparkswitch",
+    "weapon": null
+  },
+  {
+    "id": "f6cfd500-4eab-3c1d-9eeb-188e90731692",
+    "name": "Spline Dagger",
+    "weapon": null
+  },
+  {
+    "id": "d901cc46-43c7-ebe8-9c5a-f7963f1a4db3",
+    "name": "Champions 2025 Butterfly Knife",
+    "weapon": null
+  },
+  {
+    "id": "a5f8a5c8-4af6-620d-4834-46a14ea50162",
+    "name": "Minima Karambit",
+    "weapon": null
+  },
+  {
+    "id": "eb557397-41b3-5745-fe4b-74bae0766257",
+    "name": "Combat Crafts Axe",
+    "weapon": null
+  },
+  {
+    "id": "62a52d27-4c08-104c-3bd0-22be86848cc3",
+    "name": "Ruyi Staff",
+    "weapon": null
+  },
+  {
+    "id": "0a530466-4d70-b221-c056-659a535a128b",
+    "name": "Montage Axe",
+    "weapon": null
+  },
+  {
+    "id": "6bea8564-48a8-5011-dbf7-a2856713de08",
+    "name": "Overdrive Blade",
+    "weapon": null
+  },
+  {
+    "id": "ec04e1a4-4067-bb9c-c18b-46a80e5f3f1f",
+    "name": "Crimsonbeast Hammer",
+    "weapon": null
+  },
+  {
+    "id": "3209e2af-4703-088b-ebef-8da89b4cef87",
+    "name": "Genesis Arc",
+    "weapon": null
+  },
+  {
+    "id": "e37229ed-4ddf-5e7e-e744-8fba60fa2c37",
+    "name": "Kuronami no Yaiba",
+    "weapon": null
+  },
+  {
+    "id": "d0873346-4e42-238e-0251-a399eff11f2f",
+    "name": "Kuronami Naru-Kami",
+    "weapon": null
+  },
+  {
+    "id": "46664f5b-49ca-3e09-4fe5-56bdef536335",
+    "name": "Ion Energy Sword",
+    "weapon": null
+  },
+  {
+    "id": "a590c03a-43b1-a408-4c6b-0bb9fdda1570",
+    "name": "Ion Karambit",
+    "weapon": null
+  },
+  {
+    "id": "206fc3fe-45a0-6c19-c367-229b98b6a2aa",
+    "name": "Oni Claw",
+    "weapon": null
+  },
+  {
+    "id": "4e7342a5-4820-2d79-a488-0fa51a4357f7",
+    "name": "Onimaru Kunitsuna",
+    "weapon": null
+  },
+  {
+    "id": "729b8a6a-47e9-ec6a-67ef-068814d1f7d6",
+    "name": "Switchback Ascender",
+    "weapon": null
+  },
+  {
+    "id": "4ffeeeff-49f7-4578-1506-c8ac8c7dc289",
+    "name": "SilkLeaf Fan",
+    "weapon": null
+  },
+  {
+    "id": "feb4eb97-4ab3-793a-9a92-1b8af59dc023",
+    "name": "Cryostasis Impact Drill",
+    "weapon": null
+  },
+  {
+    "id": "c39f405f-42f1-acd1-a350-d3af39c32e33",
+    "name": "Artisan Foil",
+    "weapon": null
+  },
+  {
+    "id": "239ed20b-479c-e08e-c4b5-6ba0394576d4",
+    "name": "Personal Administrative Melee Unit",
+    "weapon": null
+  },
+  {
+    "id": "07409307-46cc-98db-ec92-ceb04a865f73",
+    "name": "Luna's Descent",
+    "weapon": null
+  },
+  {
+    "id": "b5f42a00-425a-6fdf-61af-bb9a564c3d79",
+    "name": "Random Favorite Skin",
+    "weapon": null
+  },
+  {
+    "id": "0357caf1-41a9-cb1c-c080-38aab13d9a7e",
+    "name": "Gravitational Uranium Neuroblaster Baton",
+    "weapon": null
+  },
+  {
+    "id": "d78eef32-4531-0f68-f2d2-d28c52ecea38",
+    "name": "Orion Sword",
+    "weapon": null
+  },
+  {
+    "id": "1c808469-4aee-ae6c-fcd2-1099e96ac6a0",
+    "name": "Rogue Push Daggers",
+    "weapon": null
+  },
+  {
+    "id": "fa0972de-4868-1679-4a3e-7bb357f7f281",
+    "name": "Blackthorn Blades",
+    "weapon": null
+  },
+  {
+    "id": "e8353608-4265-0adc-0993-21b7012dbb61",
+    "name": "Keys to Elysium",
+    "weapon": null
+  },
+  {
+    "id": "9cf4b95c-4a42-c0ab-0d97-c0927abffd92",
+    "name": "Hi-DR0 Baton",
+    "weapon": null
+  },
+  {
+    "id": "81b1f855-4f18-382b-a06e-dead577fdf49",
+    "name": "Holoflare",
+    "weapon": null
+  },
+  {
+    "id": "2da73e96-46e9-7161-531b-54a293acc4f2",
+    "name": "Shellspire Sword",
+    "weapon": null
+  },
+  {
+    "id": "4e2fd704-4372-a082-8423-c4a1da4d62f1",
+    "name": "Transition Knife",
+    "weapon": null
+  },
+  {
+    "id": "80f3db03-4b8e-bac2-b62f-4a85e63cb2b2",
+    "name": "Suit of Aeris",
+    "weapon": null
+  },
+  {
+    "id": "0e623311-4690-67d4-d018-0dade2184f0a",
+    "name": "Byteshift Knife",
+    "weapon": null
+  },
+  {
+    "id": "485467fb-45fc-7ca6-e487-1d95308f6c9d",
+    "name": "Torque Coiler",
+    "weapon": null
+  },
+  {
+    "id": "40b39690-4ec1-a3f2-a33e-60b2b96174d4",
+    "name": "Helix Daggers",
+    "weapon": null
+  },
+  {
+    "id": "52a1647c-42d9-b40e-16cf-a7821566ad81",
+    "name": "Snowfall Wand",
+    "weapon": null
+  },
+  {
+    "id": "6fd8cc46-48b3-f02c-46e3-cba372e7a328",
+    "name": "Relic of the Sentinel",
+    "weapon": null
+  },
+  {
+    "id": "a03598b3-4879-3380-eb4c-d6b2d29dd565",
+    "name": "Relic Stone Daggers",
+    "weapon": null
+  },
+  {
+    "id": "0aecb2b8-49cc-560e-42c7-6cbce44f05cf",
+    "name": "Reaver Knife",
+    "weapon": null
+  },
+  {
+    "id": "b73d7b16-4652-bc5b-5c4c-068aabb19d0a",
+    "name": "Reaver Karambit",
+    "weapon": null
+  },
+  {
+    "id": "81c37ac1-48d4-9747-7fd6-56932358a3fe",
+    "name": "Reaver Butterfly Knife",
+    "weapon": null
+  },
+  {
+    "id": "2e77ac95-4681-3d87-bbdc-93a50ff6b1f6",
+    "name": "Sovereign Sword",
+    "weapon": null
+  },
+  {
+    "id": "95938baf-4000-1b9a-42e2-77909a49d380",
+    "name": "Eternal Sovereign",
+    "weapon": null
+  },
+  {
+    "id": "f4e40444-43f3-e6f7-3271-bdb7d1492b05",
+    "name": "Prosperity",
+    "weapon": null
+  },
+  {
+    "id": "39cf499b-4f82-e875-5320-b0a1d7fc58d4",
+    "name": "Recon Balisong",
+    "weapon": null
+  },
+  {
+    "id": "9fb116be-4fe4-0a43-375d-88b96b579b40",
+    "name": "Paceline's Edge",
+    "weapon": null
+  },
+  {
+    "id": "4f6033d5-4b24-94f0-31ab-f6969a2c926c",
+    "name": "Titanmail Mace",
+    "weapon": null
+  },
+  {
+    "id": "516e0013-480b-6c1f-b05a-b6b616bffbfc",
+    "name": "Mystbloom Kunai",
+    "weapon": null
+  },
+  {
+    "id": "a0d4ac37-416b-ae62-aa36-48803714e25f",
+    "name": "Mystbloom Fanblade",
+    "weapon": null
+  },
+  {
+    "id": "5b95aba8-4223-e937-3ab7-9995c9e3064b",
+    "name": "Reverie Sword",
+    "weapon": null
+  },
+  {
+    "id": "12cc9ed2-4430-d2fe-3064-f7a19b1ba7c7",
+    "name": "Melee",
+    "weapon": null
+  },
+  {
+    "id": "ccc98dd6-4957-ee80-1489-c5889d128261",
+    "name": "Evori's Spellcaster",
+    "weapon": null
+  },
+  {
+    "id": "be489303-4aa4-ba46-e6a8-02ae4c7a7b3a",
+    "name": "Tilde Knife",
+    "weapon": null
+  },
+  {
+    "id": "52080fe5-4903-41df-4538-32b3377866d0",
+    "name": "CYRAX Fanblade",
+    "weapon": null
+  },
+  {
+    "id": "5de8dd22-41f1-381b-e138-b1a1c206c8fc",
+    "name": "Fortune's Scepter",
+    "weapon": null
+  },
+  {
+    "id": "5724cd18-458b-af3d-b60a-239c5a8c081a",
+    "name": "Hu Else",
+    "weapon": null
+  },
+  {
+    "id": "b6d1788f-4ef6-6b05-3650-43bd455ba744",
+    "name": "NO LIMITS Bat",
+    "weapon": null
+  },
+  {
+    "id": "9aaeb22b-47e4-8a4b-ed37-0c9bf6b1dad1",
+    "name": "Sandswept Dagger",
+    "weapon": null
+  },
+  {
+    "id": "116f4f55-48c1-e7de-de37-c8a7a5906765",
+    "name": "Wonderstallion Hammer",
+    "weapon": null
+  },
+  {
+    "id": "c52fe5d7-4500-ffc0-cbcd-bfa29b7ea040",
+    "name": "Ego Knife",
+    "weapon": null
+  },
+  {
+    "id": "5844ccd5-4a8d-e84d-b5b1-dfaaa8f34d84",
+    "name": "BlastX Polymer KnifeTech Coated Knife",
+    "weapon": null
+  },
+  {
+    "id": "10d326ae-4957-f954-1644-6790c4faa8a5",
+    "name": "Solarex Relic",
+    "weapon": null
+  },
+  {
+    "id": "8cd5adfe-4a12-ac61-28a6-1a856d2fdd05",
+    "name": "VCT 2025 Karambit",
+    "weapon": null
+  },
+  {
+    "id": "53c003f5-41f8-f946-7310-1ebfd3509aec",
+    "name": "VCT 2026 Sigil",
+    "weapon": null
+  },
+  {
+    "id": "a179674b-4069-ea5f-b86d-1f8aa15f8d74",
+    "name": "Blackspyre Divide",
+    "weapon": null
+  },
+  {
+    "id": "ce1a391f-4819-dc71-8a23-0e95b0b79aef",
+    "name": "Kaimana",
+    "weapon": null
+  },
+  {
+    "id": "a8250e8b-4176-e056-af5a-80b47e4b4e31",
+    "name": "5 Years // Beta Remastered Knife",
+    "weapon": null
+  },
+  {
+    "id": "9ccde738-4d26-44e3-189e-ddaebb95e64e",
+    "name": "Wasteland Crowbar",
+    "weapon": null
+  },
+  {
+    "id": "32d438ff-4d88-c9d1-8760-38ba881eb138",
+    "name": "SplashX Gloves",
+    "weapon": null
+  },
+  {
+    "id": "1cd09fbd-43cb-a5f6-90fa-08994342d747",
+    "name": "Ignite Fan",
+    "weapon": null
+  },
+  {
+    "id": "e49c0fd2-435c-2c41-9164-4996080f455b",
+    "name": "Winterwunderland Candy Cane",
+    "weapon": null
+  },
+  {
+    "id": "ee01d99d-4392-a37e-2096-7bbe2681bcda",
+    "name": "Storm Maw Axe",
+    "weapon": null
+  },
+  {
+    "id": "987e847d-47d2-6ab3-2369-0497b6c39a7e",
+    "name": "Kogitsune",
+    "weapon": null
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "x_start": 0.84,
+  "y_start": 0.58,
+  "x_end": 0.985,
+  "y_end": 0.87,
+  "minimum_match_score": 82,
+  "minimum_match_margin": 4,
+  "upscale_factor": 4,
+  "tesseract_psm": 6,
+  "check_interval_ms": 150,
+  "change_threshold": 6.0,
+  "stabilization_ms": 200,
+  "confirmation_delay_ms": 250,
+  "confirmation_window_ms": 1500,
+  "confirmation_count": 2,
+  "high_confidence_threshold": 92,
+  "difference_width": 64
+}
